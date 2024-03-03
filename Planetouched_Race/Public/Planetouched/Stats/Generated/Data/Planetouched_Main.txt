@@ -1,0 +1,22 @@
+<!--------------------- Custom Race Passives --------------------->
+
+new entry "Planetouched_Darkvision"
+type "PassiveData"
+data "DisplayName" "hf0968a03gec69g4623gbcffg3e0949d1bb88"
+data "Description" "ha432083dgfaa0g476ag97acgbe83445ac4e5"
+data "DescriptionParams" "Distance(12)"
+data "Icon" "PassiveFeature_Darkvision"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989);"
+
+new entry "Planetouched_Passive"
+type "PassiveData"
+data "DisplayName" "h5988f0aegc64dg48efgaea5gab4d78536c99"
+data "Description" "hff7c424bgd6acg4e42gaec6g162c83ae91be"
+data "Icon" "PassiveFeature_Darkvision"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SLEEP);StatusImmunity(POISON_DROW_CONDITION);Tag(CHARMED_ADV);StatusImmunity(SG_Sleeping_Magical)"
+
+<!--------------------- Custom Race Spells --------------------->
+
+

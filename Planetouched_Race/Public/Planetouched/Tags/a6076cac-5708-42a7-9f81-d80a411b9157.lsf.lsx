@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Custom_Main_Race" />
+			<attribute id="Name" type="FixedString" value="Planetouched" />
 			<attribute id="UUID" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> custom race tag uuid
 			<children>
 				<node id="Categories">

@@ -7,7 +7,7 @@
 			<node id="Resource">
 					<attribute id="ID" type="FixedString" value="af7b8df9-cf47-4c8b-b602-1360dec403e3" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_1" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -124,7 +124,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="9d11d564-0e8e-4d88-aa4a-6c06100d5f7e" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_2" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -241,7 +241,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="3ecd8d4f-34c6-466f-b3c5-2688a7c310de" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_3" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -358,7 +358,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="ae0bdc2b-028b-4f43-b1e0-255b4e1803dd" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_4" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -475,7 +475,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="29538007-4ece-45cc-93ef-4460cd801ec4" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_5" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -592,7 +592,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="81d31b2f-0d98-4781-a5ac-e57af1090706" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_6" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -709,7 +709,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="b04f34e5-95f7-4563-b155-5e8017ddc990" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_7" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">
@@ -826,7 +826,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="6c43ab05-8250-4d11-878b-8dbfdc26ff1e" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Test" />
+					<attribute id="Name" type="LSString" value="P_SKIN_Void_8" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
 					<children>
 						<node id="Presets">

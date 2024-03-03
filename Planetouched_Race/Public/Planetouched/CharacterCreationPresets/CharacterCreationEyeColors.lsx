@@ -7,9 +7,23 @@
                 <node id="CharacterCreationEyeColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h17da98c8g6a54g4407g9505g7fd148db801e" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="918f21d7-ed86-4e6b-9645-7f5f22facbe3"/>
-                    <attribute id="Name" type="FixedString" value="Eye_Malefic"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Primeval_Current"/>
+                    <attribute id="UIColor" type="LSString" value="#FF7985ca"/>
                     <attribute id="UUID" type="guid" value="b90c99c9-ad35-4bc4-a3e5-823aa4f7b075"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60c560b3g1d26g49bfg80e5ga0c6a3238fc0" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f4a5c64a-b4fd-4976-b8d9-a044e59c103c"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Eternal_Fog"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6b8c98"/>
+                    <attribute id="UUID" type="guid" value="6f866078-f5f3-4055-8932-1b819e2cea8d"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdc99b91dg27f3g4fd2ga4bbgad28e32f95d9" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1c21b0a9-1618-4b14-b7c3-e7516ac0d1ca"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Astral_Magic"/>
+                    <attribute id="UIColor" type="LSString" value="#FFb466a4"/>
+                    <attribute id="UUID" type="guid" value="ea77d056-985f-4240-a884-07d6843ed68b"/>
                 </node>
             </children>
         </node>

@@ -7,7 +7,7 @@
 	<content contentuid="h910d0bdege769g4431ga981gba75863b7eb5" version="1">Your ancestry is less grim, than that of Void Planetouched. You draw power from the vivid and warm just before impact, your life a dedication to fill this strange life given to you to the brim.</content>
 	<content contentuid="h3c6b7f0ege1aeg4f86g905fg71f313044531" version="1">Comet</content>
 	<content contentuid="ha7392b5ag32ffg48edg91bagf429e8ce777e" version="1">Silver blood</content>
-	<!--SKIN CC-->
+	<!--SKINS CC-->
 	<content contentuid="he28555d7g78d7g4d0bga071g0778fa031a83" version="1">Dark Star 1</content>
 	<content contentuid="h0072b684gc6bcg42cdgbc23g962297823ee2" version="1">Dark Star 2</content>
 	<content contentuid="hef462eb3g6eceg48ebg826egb1074d43c15c" version="1">Dark Star 3</content>
@@ -16,6 +16,13 @@
 	<content contentuid="h708212d1ge46dg4e0cgaf62gdeebc2adf599" version="1">Dark Star 6</content>
 	<content contentuid="h05004ddbga704g4585g8e43g444e0384d6a7" version="1">Dark Star 7</content>
 	<content contentuid="h08b58124gcc82g444dgb140g397a7acef80f" version="1">Dark Star 8</content>
-	<!--EYE CC-->
-	<content contentuid="h17da98c8g6a54g4407g9505g7fd148db801e" version="1">Malefic</content>
+	<!--EYES CC-->
+	<content contentuid="h17da98c8g6a54g4407g9505g7fd148db801e" version="1">Primeval Current</content>
+	<content contentuid="h60c560b3g1d26g49bfg80e5ga0c6a3238fc0" version="1">Eternal Fog</content>
+	<content contentuid="hdc99b91dg27f3g4fd2ga4bbgad28e32f95d9" version="1">Astral Magic</content>
+	<!--PASSIVES-->
+	<content contentuid="hf0968a03gec69g4623gbcffg3e0949d1bb88" version="1">Darkvision</content>
+	<content contentuid="ha432083dgfaa0g476ag97acgbe83445ac4e5" version="1">You can see in ordinary darkness up to a range of [1].</content>
+	<content contentuid="h5988f0aegc64dg48efgaea5gab4d78536c99" version="1">Planetouched Mind</content>
+	<content contentuid="hff7c424bgd6acg4e42gaec6g162c83ae91be" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
 </contentList>
