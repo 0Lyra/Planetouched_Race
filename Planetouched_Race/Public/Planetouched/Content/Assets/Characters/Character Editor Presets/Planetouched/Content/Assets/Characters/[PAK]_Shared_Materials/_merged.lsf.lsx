@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="4" build="602" />
-	<region id="MaterialBank">
-		<node id="MaterialBank">
-			<children>
-				<!--FORCE EYE GLOW-->
+    <version major="4" minor="0" revision="9" build="0" />
+    <region id="MaterialBank">
+        <node id="MaterialBank">
+            <children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="FORCE_EYE_GLOW" />
+					<attribute id="Name" type="LSString" value="ASTRL_Generic_Eye_Glow" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Eye_Parallax_FX.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -283,7 +282,13 @@
 						</node>
 					</children>
 				</node>
-			</children>
-		</node>
-	</region>
+            </children>
+        </node>
+    </region>
+    <region id="TextureBank">
+        <node id="TextureBank">
+            <children>
+            </children>
+        </node>
+    </region>
 </save>
