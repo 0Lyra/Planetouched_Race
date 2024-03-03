@@ -1,0 +1,745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" lslib_meta="v1,bswap_guids" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="ID" type="FixedString" value="cd6bf9f1-208c-478f-9828-69eeb22b5712" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_Planetouched" />					
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="ace8e94a-4ec0-45b3-6ff0-46a6a4a008ed" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="a2cc3257-140f-4ea7-a436-ae9c1e280396" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="4ba9f25a-0270-1b1b-89da-bca465851b17" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" /> body model
+					<attribute id="ID" type="FixedString" value="1c4918cf-21c4-4231-a5df-5f289fd4c609" /> must be unique		
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_Planetouched" />	localised name
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="ace8e94a-4ec0-45b3-6ff0-46a6a4a008ed" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="c1c97ff6-04b6-37c0-b855-681b18447fc4" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="b801b19c-a373-0c0b-0a8c-30758b460178" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="BodySetVisual" type="FixedString" value="9e43f0e4-d063-d85c-87b4-470d569645db" />
+					<attribute id="ID" type="FixedString" value="12678790-86d1-4f2a-881b-5000518c9520" />
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Void_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="ae0bdc2b-028b-4f43-b1e0-255b4e1803dd" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="918f21d7-ed86-4e6b-9645-7f5f22facbe3" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<!--FORCE EYE GLOW-->
+						<node id="RealMaterialOverrides">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_B.ELF_F_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_C.ELF_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_D.ELF_F_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_E.ELF_F_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_H.ELF_F_NKD_Head_H_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_A.ELF_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="a2cc3257-140f-4ea7-a436-ae9c1e280396" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="fc10a6df-b9f3-79f3-eacc-b7fa7c27690a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="1f07d7e4-e0a1-3114-93ae-dd2f0bdfc0b0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="dec25989-ed08-895e-4ae0-5c9b44352bf0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
+					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" />
+					<attribute id="ID" type="FixedString" value="08dd20ed-e5ed-4dd7-aaf3-6aa0302b991e" />
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Void_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="51c328cb-560d-be3a-549e-81c7a78ea41a" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>						
+									</children>
+								</node>
+							</children>
+						</node>
+						<!--FORCE EYE GLOW-->
+						<node id="RealMaterialOverrides">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_A.ELF_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_B.ELF_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_C.ELF_M_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_D.ELF_M_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_E.ELF_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_F.ELF_M_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_G.ELF_M_NKD_Head_G_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_H.ELF_M_NKD_Head_H_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+						</node>
+					</children>
+				</node>
+				<!-- <node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
+					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
+					<attribute id="ID" type="FixedString" value="82c44e52-0d0d-433b-b276-cf95582a64d4" />
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Void_Player_Strong" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="False" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a757695b-71cb-ceac-bdfb-2e8e3e19c9a3" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+											<attribute id="MapKey" type="FixedString" value="04Tattoo" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d6b17741-c44d-f31f-26ae-9f7b05bd471e" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="7682ac16-194a-4078-9260-6ff04d63386d" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="73fd5441-1b0d-247f-d65f-085404ab65bb" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="fc10a6df-b9f3-79f3-eacc-b7fa7c27690a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="c7012761-0476-5caf-e759-727e40c608e4" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="edc51b23-74e9-fdb3-bc99-dc5a2450025a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node> 
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+					<attribute id="BodySetVisual" type="FixedString" value="d394254b-ef37-3314-4bab-556b07e6de0d" />
+					<attribute id="ID" type="FixedString" value="097242a5-4a5e-4502-b27c-37d7453b5ff2" />
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Void_Player_Strong" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="False" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="1858a4ba-a256-8ae0-5429-c7e15a7cf26f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="d633e71b-781c-a913-81ac-562d959a4097" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="75f84bfa-4fd5-2c3f-9489-48103bc29d10" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
+						</node>
+					</children>
+				</node>-->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="BodySetVisual" type="FixedString" value="9e43f0e4-d063-d85c-87b4-470d569645db" />
+					<attribute id="ID" type="FixedString" value="a628b872-55a2-4a9b-be82-89e775e1430c" />
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Comet_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="80de0808-db1c-8ba1-439e-013b0b0b9d1a" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<!--FORCE EYE GLOW-->
+						<node id="RealMaterialOverrides">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_B.ELF_F_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_C.ELF_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_D.ELF_F_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_E.ELF_F_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_H.ELF_F_NKD_Head_H_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_A.ELF_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="555b1e26-9a79-c11b-134d-a557b317bd93" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="fc10a6df-b9f3-79f3-eacc-b7fa7c27690a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="1f07d7e4-e0a1-3114-93ae-dd2f0bdfc0b0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="dec25989-ed08-895e-4ae0-5c9b44352bf0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
+					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" />
+					<attribute id="ID" type="FixedString" value="a6f57211-3001-4487-ba21-8209dc201741" />
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Comet_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>							
+									</children>
+								</node>
+							</children>
+						</node>
+						<!--FORCE EYE GLOW-->
+						<node id="RealMaterialOverrides">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_A.ELF_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_B.ELF_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_C.ELF_M_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_D.ELF_M_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_E.ELF_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_F.ELF_M_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_G.ELF_M_NKD_Head_G_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_H.ELF_M_NKD_Head_H_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+						</node>
+					</children>
+				</node>
+				<!-- <node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
+					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
+					<attribute id="ID" type="FixedString" value="82c44e52-0d0d-433b-b276-cf95582a64d4" />
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Comet_Player_Strong" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="False" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a757695b-71cb-ceac-bdfb-2e8e3e19c9a3" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+											<attribute id="MapKey" type="FixedString" value="04Tattoo" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d6b17741-c44d-f31f-26ae-9f7b05bd471e" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="7682ac16-194a-4078-9260-6ff04d63386d" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="73fd5441-1b0d-247f-d65f-085404ab65bb" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="fc10a6df-b9f3-79f3-eacc-b7fa7c27690a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="c7012761-0476-5caf-e759-727e40c608e4" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="edc51b23-74e9-fdb3-bc99-dc5a2450025a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+					<attribute id="BodySetVisual" type="FixedString" value="d394254b-ef37-3314-4bab-556b07e6de0d" />
+					<attribute id="ID" type="FixedString" value="097242a5-4a5e-4502-b27c-37d7453b5ff2" />
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Comet_Player_Strong" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="False" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="29cedc13-061b-7e06-ba17-505314a27b8b" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="d4bf8e65-39c8-f87b-7e2a-ef5d4756aaca" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="1858a4ba-a256-8ae0-5429-c7e15a7cf26f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="d633e71b-781c-a913-81ac-562d959a4097" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="75f84bfa-4fd5-2c3f-9489-48103bc29d10" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
+						</node>
+					</children>
+				</node> -->
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>               
+                <node id="SpellList">Spelllist Cantrips
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Spells"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_ChillTouch;Projectile_EldritchBlast;Target_Friends;Target_TrueStrike;Projectile_AcidSplash;Target_DancingLights;Projectile_FireBolt;Target_Light;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Projectile_RayOfFrost;Target_ShockingGrasp"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="4d519463-7eb5-4205-938d-7c2fad76c65a"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist just a modified Fireball
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Racial_Projectile_Fireball"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

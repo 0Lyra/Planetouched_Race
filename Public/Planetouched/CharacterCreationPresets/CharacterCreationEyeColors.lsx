@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="47"/>
+    <region id="CharacterCreationEyeColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17da98c8g6a54g4407g9505g7fd148db801e" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="918f21d7-ed86-4e6b-9645-7f5f22facbe3"/>
+                    <attribute id="Name" type="FixedString" value="Eye_Malefic"/>
+                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UUID" type="guid" value="b90c99c9-ad35-4bc4-a3e5-823aa4f7b075"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

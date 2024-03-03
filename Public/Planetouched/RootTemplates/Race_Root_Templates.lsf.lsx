@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="69d38be3-c717-4c73-b914-18b8d56aea3d" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_Planetouched" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="cd6bf9f1-208c-478f-9828-69eeb22b5712" /> which models to load
+					<attribute id="Race" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> Custom Race tag TBA
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="95f97428-cdbd-4642-a752-4695bcdc24f7" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_Planetouched" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1c4918cf-21c4-4231-a5df-5f289fd4c609" /> which models to load
+					<attribute id="Race" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> Custom Race tag TBA
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Void-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="553cc54b-f0b9-4f7b-8fac-209a13ca2c41" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Void_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="69d38be3-c717-4c73-b914-18b8d56aea3d" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="12678790-86d1-4f2a-881b-5000518c9520" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c2efadb0-e507-4069-8cca-93746bc6e2a5" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Void_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal CustomRace body
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="82c44e52-0d0d-433b-b276-cf95582a64d4" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Race" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node> -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d0a13a0f-6422-41bb-bd42-05f5de914694" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Void_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="95f97428-cdbd-4642-a752-4695bcdc24f7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="08dd20ed-e5ed-4dd7-aaf3-6aa0302b991e" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3e341d2f-e0a1-47a6-8764-152c997e7fc4" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Void_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="097242a5-4a5e-4502-b27c-37d7453b5ff2" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+					<attribute id="Race" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node> -->
+				<!--Comet-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c075cb45-c9cb-42e3-a171-370ca4155669" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Comet_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="69d38be3-c717-4c73-b914-18b8d56aea3d" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a628b872-55a2-4a9b-be82-89e775e1430c" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="97a00724-e317-4a55-ac86-010cd7ac686b" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="e984543a-e949-4363-9ae7-8b9e78621ff5" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Female_Planetouched_Void_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal CustomRace body
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="82c44e52-0d0d-433b-b276-cf95582a64d4" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="97a00724-e317-4a55-ac86-010cd7ac686b" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node> -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="443a6fab-77aa-4825-9372-91757d4cbc3e" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Comet_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="95f97428-cdbd-4642-a752-4695bcdc24f7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a6f57211-3001-4487-ba21-8209dc201741" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="97a00724-e317-4a55-ac86-010cd7ac686b" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="b1180955-a078-49b4-9754-6a5399208fdf" /> must be unique
+					<attribute id="Name" type="LSString" value="Main_Male_Planetouched_Void_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="097242a5-4a5e-4502-b27c-37d7453b5ff2" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="97a00724-e317-4a55-ac86-010cd7ac686b" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node> -->
+			</children>
+		</node>
+	</region>
+</save>

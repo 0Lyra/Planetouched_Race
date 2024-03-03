@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+       <!--Void-->
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> do not touch these three, cameras for in CC
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="553cc54b-f0b9-4f7b-8fac-209a13ca2c41"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="ca0d120f-ebb0-4aec-a36b-b5406406d0f2"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+          <attribute id="RootTemplate" type="guid" value="d0a13a0f-6422-41bb-bd42-05f5de914694"/>
+					<attribute id="SubRaceUUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681"/>
+          <attribute id="UUID" type="guid" value="0dada178-e4d8-4ab6-8e17-cffffeae305c"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<!-- <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+          <attribute id="RootTemplate" type="guid" value="c2efadb0-e507-4069-8cca-93746bc6e2a5"/>
+					<attribute id="SubRaceUUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681"/>
+          <attribute id="UUID" type="guid" value="7e308ff6-f24e-400e-914c-1e8f5ba51460"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+          <attribute id="RootTemplate" type="guid" value="3e341d2f-e0a1-47a6-8764-152c997e7fc4"/>
+					<attribute id="SubRaceUUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681"/>
+          <attribute id="UUID" type="guid" value="f90f6278-5f5f-4b67-a8a8-201a8c58076b"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node> -->
+         <!--Comet-->
+        <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> do not touch these three, cameras for in CC
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="c075cb45-c9cb-42e3-a171-370ca4155669"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="76543d9f-917b-493f-8687-84569fd3aacc"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+          <attribute id="RootTemplate" type="guid" value="443a6fab-77aa-4825-9372-91757d4cbc3e"/>
+					<attribute id="SubRaceUUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274"/>
+          <attribute id="UUID" type="guid" value="1f018bfa-1a48-45b8-b5cc-1b57eb00625c"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<!-- <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+          <attribute id="RootTemplate" type="guid" value="e984543a-e949-4363-9ae7-8b9e78621ff5"/>
+					<attribute id="SubRaceUUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274"/>
+          <attribute id="UUID" type="guid" value="2cbfeffe-ad61-4324-bccf-9b1cd1fd5c0d"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+          <attribute id="RootTemplate" type="guid" value="b1180955-a078-49b4-9754-6a5399208fdf"/>
+					<attribute id="SubRaceUUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274"/>
+          <attribute id="UUID" type="guid" value="cbdd971b-172a-438f-85f7-10da82d8d03d"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node> -->
+      </children>
+    </node>
+  </region>
+</save>

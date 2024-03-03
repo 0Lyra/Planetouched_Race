@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">                 
+      <children>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Main_Race_1" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Planetouched_Passives" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared);AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2);SelectPassives(3933da0d-897a-4fd4-b37c-408c1afde2d3,2,RacialFeats)" />see below for explanation
+                  <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)-->
+                  This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
+                  <!--AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b)-->
+                  This also links to the SpellLists.lsx, but doesn't offer an option to pick and choose, instead gives every entry within said list.
+                  <!--SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2)-->
+                  This links to the SkillLists.lsx, this example allows you to pick 2 from the list of skills provided.
+                  <!--SelectPassives(3933da0d-897a-4fd4-b37c-408c1afde2d3,2,RacialFeats)-->
+                  This links to the PassiveLists.lsx, the 2 means the amount of options you need to pick.
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="257bb459-3a9e-4bea-b4e2-349e3a9ac3ef" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="b5f04836-e2ef-4eb6-93d5-4aad7f3b1c20" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Main_Race_3" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="257bb459-3a9e-4bea-b4e2-349e3a9ac3ef" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="87fa3288-f069-41da-9989-4a6e7b1f5dfc" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Sub_Race_1" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="8d7d65ad-ed3f-4002-acfc-70fa10d2b570" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="042e6092-1602-4338-b6f9-cc7987f3bff4" />  this one must be unique
+          </node>
+      </children>
+    </node>
+  </region>
+</save>
