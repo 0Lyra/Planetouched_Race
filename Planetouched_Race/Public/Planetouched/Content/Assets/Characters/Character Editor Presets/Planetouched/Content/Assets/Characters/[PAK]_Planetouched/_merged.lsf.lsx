@@ -175,7 +175,7 @@
 							<attribute id="ID" type="FixedString" value="9173c1c1-73e9-5798-640b-c57b6d6b44fd" />
 							<attribute id="ParameterName" type="FixedString" value="IrisNormal" />
 						</node>
-						<!-- <node id="Vector2Parameters">
+						<node id="Vector2Parameters">
 							<attribute id="BaseValue" type="fvec2" value="0 0" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
@@ -190,7 +190,7 @@
 							<attribute id="GroupName" type="FixedString" value="06Eyes" />
 							<attribute id="ParameterName" type="FixedString" value="FlameDirection" />
 							<attribute id="Value" type="fvec2" value="0 0" />
-						</node> -->
+						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="0.4891208 0.09250967 0" />
 							<attribute id="Enabled" type="bool" value="False" />
