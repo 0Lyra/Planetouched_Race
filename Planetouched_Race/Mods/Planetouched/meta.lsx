@@ -6,15 +6,15 @@
       <children>
         <node id="Dependencies" />
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSString" value="Trips" />
+          <attribute id="Author" type="LSString" value="Lyra" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Custom Subrace Template Mod Description" />
+          <attribute id="Description" type="LSString" value="Planetouched race description" />
           <attribute id="Folder" type="LSString" value="Planetouched" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Custom Race Template Mod Name" />
+          <attribute id="Name" type="FixedString" value="Planetouched" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
