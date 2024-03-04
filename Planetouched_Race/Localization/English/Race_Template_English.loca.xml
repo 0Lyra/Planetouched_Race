@@ -25,4 +25,6 @@
 	<content contentuid="ha432083dgfaa0g476ag97acgbe83445ac4e5" version="1">You can see in ordinary darkness up to a range of [1].</content>
 	<content contentuid="h5988f0aegc64dg48efgaea5gab4d78536c99" version="1">Planetouched Mind</content>
 	<content contentuid="hff7c424bgd6acg4e42gaec6g162c83ae91be" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
+    <content contentuid="hc185d2fag00ffg4ddegad89gf3a880f6f1b0" version="1">Nebulous Form</content>
+	<content contentuid="ha2b0f8aeg9818g40e3g9442g2d7948c8cfe2" version="1">Illuminates [1] radius.</content>
 </contentList>

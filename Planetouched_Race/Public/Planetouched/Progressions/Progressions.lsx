@@ -8,8 +8,8 @@
                     <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                     <attribute id="Name" type="LSString" value="Planetouched_Passives" /> just an internal name
                     <attribute id="Boosts" type="LSString" value="" /> 
-                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Darkvision;Planetouched_Passive" /> passives from stats folder here
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(0219e1a0-9f56-4313-9ead-9638507ec19c,2)" />see below for explanation
+                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Darkvision;Planetouched_Passive;Planetouched_Nebulous_Form" /> passives from stats folder here
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(0219e1a0-9f56-4313-9ead-9638507ec19c);AddSpells(cea223db-5a6e-4f6b-b08b-98ca9ee426b6)" />see below for explanation
                     <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)
                     This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
                     AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b)

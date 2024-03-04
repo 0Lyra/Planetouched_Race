@@ -1,5 +1,3 @@
-<!--------------------- Custom Race Passives --------------------->
-
 new entry "Planetouched_Darkvision"
 type "PassiveData"
 data "DisplayName" "hf0968a03gec69g4623gbcffg3e0949d1bb88"
@@ -17,6 +15,13 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(SLEEP);StatusImmunity(POISON_DROW_CONDITION);Tag(CHARMED_ADV);StatusImmunity(SG_Sleeping_Magical)"
 
-<!--------------------- Custom Race Spells --------------------->
-
-
+new entry "Planetouched_Nebulous_Form"
+type "PassiveData"
+data "DisplayName" "hc185d2fag00ffg4ddegad89gf3a880f6f1b0"
+data "Description" "h04fd15b1g8423g450bg93f6gb44748da370f"
+data "DescriptionParams" "Distance(9)"
+data "Icon" "Spell_Evocation_DancingLights"
+data "Properties" "IsToggled;ToggledDefaultAddToHotbar;Highlighted"
+data "ToggleOnFunctors" "ApplyStatus(NEBULOUS_FORM_ACTIVE,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(NEBULOUS_FORM_ACTIVE)"
+data "ToggleGroup" "Nebulous_Form"
