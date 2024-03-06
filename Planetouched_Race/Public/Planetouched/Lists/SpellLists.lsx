@@ -11,7 +11,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Planetouched_Nebulous_FormTest"/>
+                    <attribute id="Spells" type="LSString" value="Target_RangersCompanion_Raven_WHITE"/>
                     <attribute id="UUID" type="guid" value="cea223db-5a6e-4f6b-b08b-98ca9ee426b6"/>
                 </node>
             </children>

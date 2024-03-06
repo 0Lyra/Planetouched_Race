@@ -2,10 +2,10 @@
 <contentList>
 	<content contentuid="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1">You are Planetouched, a mysterious being with appearance close to elves, but heritage far in the astral plane. You were born in a place where a meteor struck and your powers come from this strange occurence also.</content>
 	<content contentuid="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1">Planetouched</content>
-	<content contentuid="h0f6acb14g0be8g4456gb1f2gca6048448d87" version="1">You trace your heritage to an entity which lives in the void. Your heart is cold and your soul ancient. You have skin of stone and listen intently whenever night falls to hear a whisper of your ancestor.</content>
-	<content contentuid="h8b6b17e3g220bg4682g818bg45757c672e25" version="1">Void</content>
-	<content contentuid="h910d0bdege769g4431ga981gba75863b7eb5" version="1">Your ancestry is less grim, than that of Void Planetouched. You draw power from the vivid and warm just before impact, your life a dedication to fill this strange life given to you to the brim.</content>
-	<content contentuid="h3c6b7f0ege1aeg4f86g905fg71f313044531" version="1">Comet</content>
+	<content contentuid="h0f6acb14g0be8g4456gb1f2gca6048448d87" version="1">You trace your heritage to the elves of Shadowfell who have been tainted by the negative energy from before Spellplague. Whether a blessing or a curse, your heart is cold and your soul ancient. You have skin of stone and listen intently whenever night falls to hear the whispers of your ancestor.</content>
+	<content contentuid="h8b6b17e3g220bg4682g818bg45757c672e25" version="1">Gloam</content>
+	<content contentuid="h910d0bdege769g4431ga981gba75863b7eb5" version="1">Your ancestry is tied to the Feywild and beings of Positive energy plane. You draw power from the burning radiance of a star being born, and you are driven by its intensity to explore and taste all the joys of life. Be careful not to burn before your time.</content>
+	<content contentuid="h3c6b7f0ege1aeg4f86g905fg71f313044531" version="1">Lumen</content>
 	<content contentuid="ha7392b5ag32ffg48edg91bagf429e8ce777e" version="1">Silver blood</content>
 	<!--SKINS CC-->
 	<content contentuid="he28555d7g78d7g4d0bga071g0778fa031a83" version="1">Dark Star 1</content>
@@ -27,4 +27,8 @@
 	<content contentuid="hff7c424bgd6acg4e42gaec6g162c83ae91be" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
     <content contentuid="hc185d2fag00ffg4ddegad89gf3a880f6f1b0" version="1">Nebulous Form</content>
 	<content contentuid="ha2b0f8aeg9818g40e3g9442g2d7948c8cfe2" version="1">Illuminates [1] radius.</content>
+    <!--SPELLS-->
+    <content contentuid="ha2ef0ba3g8554g4078g80f4g6f27f8844a28" version="1">Summon Raven</content>
+	<content contentuid="h0196b91eg0ce0g4191g8421gf8d8391c08c4" version="1">Test.</content>
+    <content contentuid="he99e24efg483ag49fbg84ecg44eb10314ec9" version="1">Stelio</content>
 </contentList>

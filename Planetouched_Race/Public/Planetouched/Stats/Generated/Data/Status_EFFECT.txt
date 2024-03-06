@@ -1,0 +1,13 @@
+new entry "MAG_FROSTBITE_FROZEN_RAVEN"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "DisplayName" "h151447edg6658g496eg8e45g0e231b4f57ed;2"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "ad70c67d-f4f6-4dea-b6b6-d871fae6ddc1"
+
+new entry "MAG_SHINE_RAVEN"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "DisplayName" "h151447edg6658g496eg8e45g0e231b4f57ed;2"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "3f868e51-f72a-42bc-a3ca-b44ae2608ed1"
