@@ -25,7 +25,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Planetouched_Void" />
-                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature_1,1,0)" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(cea223db-5a6e-4f6b-b08b-98ca9ee426b6)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
@@ -35,7 +35,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Planetouched_Comet" />
-                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature_1,1,0)" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(869890ec-7dad-40f6-b965-65845fd55327)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />

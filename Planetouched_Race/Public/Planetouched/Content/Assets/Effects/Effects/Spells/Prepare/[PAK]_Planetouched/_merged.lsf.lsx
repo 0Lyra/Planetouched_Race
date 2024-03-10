@@ -67,6 +67,69 @@
 						</node>
 					</children>
 				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.17" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Prepare_Arcane_Intent_Buff_Bless_HandFX_01_Comet" />
+					<attribute id="ID" type="FixedString" value="feaa2407-b42a-4086-a178-9b2edf2e903a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Prepare_Arcane_Intent_Buff_Bless_HandFX_01_Comet" />
+					<attribute id="Radius" type="float" value="3" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Prepare/NebulousForm/P_VFX_Spells_Prepare_Arcane_Intent_Buff_Bless_HandFX_01_Comet.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4ef97cf9-3c27-06b2-20d8-2e7c4bf2009b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 4 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -2 -3" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.000652" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Prepare_Arcane_Intent_Buff_Root_01_Comet" />
+					<attribute id="ID" type="FixedString" value="45338910-862e-4223-8864-e9861665fa40" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Prepare_Arcane_Intent_Buff_Root_01_Comet" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Prepare/NebulousForm/P_VFX_Spells_Prepare_Arcane_Intent_Buff_Root_01_Comet.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="45790b17-1791-4e62-98b4-2cf28c6f0f1d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1666ee4d-225a-df89-9779-07339247fdfa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="72d7dbb5-40b5-b5db-d403-9c3e9043ca08" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="13416b34-9867-0546-a9d7-2c248e7ce290" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="35478d57-bb26-1c91-adc3-7ee5c86c1602" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
             </children>
 		</node>
 	</region>

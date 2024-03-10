@@ -21,17 +21,21 @@
 	<content contentuid="h60c560b3g1d26g49bfg80e5ga0c6a3238fc0" version="1">Eternal Fog</content>
 	<content contentuid="hdc99b91dg27f3g4fd2ga4bbgad28e32f95d9" version="1">Astral Magic</content>
 	<!--PASSIVES-->
+    <content contentuid="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1">Planetouched Charge</content>
 	<content contentuid="hf0968a03gec69g4623gbcffg3e0949d1bb88" version="1">Darkvision</content>
 	<content contentuid="ha432083dgfaa0g476ag97acgbe83445ac4e5" version="1">You can see in ordinary darkness up to a range of [1].</content>
 	<content contentuid="h5988f0aegc64dg48efgaea5gab4d78536c99" version="1">Planetouched Mind</content>
 	<content contentuid="hff7c424bgd6acg4e42gaec6g162c83ae91be" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
     <content contentuid="hc185d2fag00ffg4ddegad89gf3a880f6f1b0" version="1">Planetouched: Nebulous Form</content>
-    <content contentuid="h956ac6b4gd60eg4cfeg9df1gd0f811338a1d" version="1">You embraced your astral ancestry and learned to transform your body to become non-corporeal. You can pass through tight spaces and when a creature hits you with a melee attack, it takes [1] and [2] damage.</content>
+    <content contentuid="h956ac6b4gd60eg4cfeg9df1gd0f811338a1d" version="4">Embracing your astral ancestry you transform your body to become &lt;LSTag Type="Passive" Tooltip="Nebulous_Form_Void"&gt;non-corporeal&lt;/LSTag&gt; and the Negative energy stored within you retaliates upon melee attack.</content>
+    <content contentuid="hb66f8a46gbb48g4bf4ga44ag9bdde75c6c3a" version="2">Embracing your astral ancestry you transform your body to become &lt;LSTag Type="Passive" Tooltip="Nebulous_Form_Comet"&gt;non-corporeal&lt;/LSTag&gt; and the Positive energy stored within you retaliates upon melee attack.</content>
     <content contentuid="ha50c8eabg8468g4823gaa76gd7752f3d5355" version="1">Nebulous Form</content>
-    <content contentuid="h3cf28113g3ff2g43f2g941eg55ed6f6fb361" version="1">Gain [1], additionally dealing [2] and [3] damage upon enemy attack, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to weapon damage.</content>
-    
+    <content contentuid="h3cf28113g3ff2g43f2g941eg55ed6f6fb361" version="3">You gain [1] and become &lt;LSTag Tooltip="Resistant"&gt;resistant&lt;/LSTag&gt; to melee attacks. Additionally any landing damage retaliates to deal [2] and [3] damage.</content>
     <!--SPELLS-->
-    <content contentuid="ha2ef0ba3g8554g4078g80f4g6f27f8844a28" version="1">Summon Raven</content>
-	<content contentuid="h0196b91eg0ce0g4191g8421gf8d8391c08c4" version="1">Test.</content>
+    <content contentuid="ha2ef0ba3g8554g4078g80f4g6f27f8844a28" version="1">Woe Loves Company</content>
+	<content contentuid="h0196b91eg0ce0g4191g8421gf8d8391c08c4" version="1">You summon your loyal companion  &lt;LSTag Type="Passive" Tooltip="Stelio_Passive"&gt;Stelio&lt;/LSTag&gt;, who begrudgingly helps you on your journey through the Astral Sea and beyond.</content>
     <content contentuid="he99e24efg483ag49fbg84ecg44eb10314ec9" version="1">Stelio</content>
+    <content contentuid="h6a4671f7g7ee7g4c07ga682g48063b60abc4" version="1">A strange white raven that glimmers with unnatural magics. He's latched onto you and not even death can separate you. His witty quips border on malicous, but you've grown fond of him nonetheless. His origin is a mystery to you.</content>
+    <content contentuid="h9ab5ef07g43d4g4525g9a92g53eb521e41cf" version="1">Soul Star</content>
+    <content contentuid="h5089281ag3e10g4ca6gbbf9gb97b916d507f" version="1">You call on the help of a star from deep within the Astral Sea to smite your enemy with a beam of energy.</content>
 </contentList>

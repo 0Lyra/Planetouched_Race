@@ -5,18 +5,18 @@
         <node id="root">
             <children>               
                 <node id="SpellList">Spelllist Cantrips
-                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Spells"/> 
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Spells"/> 
                     <attribute id="Spells" type="LSString" value="Target_RangersCompanion_Raven_WHITE;Target_DancingLights;Target_Light;Target_MageHand;Target_MinorIllusion"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="7eaf55d9-c193-45fd-b452-3da0068b0971"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Void"/>
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Void;Projectile_Soul_Star_Void"/>
                     <attribute id="UUID" type="guid" value="cea223db-5a6e-4f6b-b08b-98ca9ee426b6"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Comet"/>
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Comet;Projectile_Soul_Star_Comet"/>
                     <attribute id="UUID" type="guid" value="869890ec-7dad-40f6-b965-65845fd55327"/>
                 </node>
             </children>
