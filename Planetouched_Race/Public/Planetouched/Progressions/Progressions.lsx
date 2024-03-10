@@ -9,7 +9,7 @@
                     <attribute id="Name" type="LSString" value="Planetouched_Passives" /> just an internal name
                     <attribute id="Boosts" type="LSString" value="" /> 
                     <attribute id="PassivesAdded" type="LSString" value="Planetouched_Darkvision;Planetouched_Passive" /> passives from stats folder here
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(0219e1a0-9f56-4313-9ead-9638507ec19c);AddSpells(cea223db-5a6e-4f6b-b08b-98ca9ee426b6)" />see below for explanation
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(0219e1a0-9f56-4313-9ead-9638507ec19c);SelectSpells(7eaf55d9-c193-45fd-b452-3da0068b0971,2,0,,,,AlwaysPrepared)" />see below for explanation
                     <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)
                     This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
                     AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b)
@@ -26,8 +26,8 @@
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Planetouched_Void" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Nebulous_Form_Void" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(cea223db-5a6e-4f6b-b08b-98ca9ee426b6)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
                     <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" /> Always use this one for races.lsx, says this progression node is for Sub Race
                     <attribute id="UUID" type="guid" value="6d7fa079-23fc-46f0-a2b0-2dd41e3eae8d" />  this one must be unique
@@ -36,8 +36,8 @@
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Planetouched_Comet" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Nebulous_Form_Comet" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(869890ec-7dad-40f6-b965-65845fd55327)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
                     <attribute id="TableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" /> Always use this one for races.lsx, says this progression node is for Main Race
                     <attribute id="UUID" type="guid" value="97ce76c0-ad7c-4e42-b977-9aafdc3447e9" />  this one must be unique
