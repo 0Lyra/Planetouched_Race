@@ -42,7 +42,47 @@
                     <attribute id="TableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" /> Always use this one for races.lsx, says this progression node is for Main Race
                     <attribute id="UUID" type="guid" value="97ce76c0-ad7c-4e42-b977-9aafdc3447e9" />  this one must be unique
                 </node>
-        </children>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Planetouched_Void" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature_3,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(519d519d-7395-4010-a344-47496a0da01e)" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                    <attribute id="UUID" type="guid" value="dea838aa-9575-4895-9539-4eaeb33eadb5" />  this one must be unique
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Planetouched_Comet" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature_3,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" /> Always use this one for races.lsx, says this progression node is for Main Race
+                    <attribute id="UUID" type="guid" value="37c7ebb2-8044-45a4-b22d-02bf11daca72" />  this one must be unique
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Planetouched_Void" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature_5,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e3e23a21-fe99-4d55-a12d-30036b34987c)" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                    <attribute id="UUID" type="guid" value="381dc25e-03e7-4ae8-879e-b6ae90e4efe5" />  this one must be unique
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Planetouched_Comet" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature_5,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" /> Always use this one for races.lsx, says this progression node is for Main Race
+                    <attribute id="UUID" type="guid" value="be1836cd-1355-4523-a547-ec91598ef4db" />  this one must be unique
+                </node>
+            </children>
         </node>
     </region>
 </save>

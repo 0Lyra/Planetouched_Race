@@ -24,7 +24,7 @@ data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;5e7e63e1-0e69-4
 data "SpellFlags" "IsSpell;HasSomaticComponent;HasVerbalComponent;DisableBlood"
 data "HitAnimationType" "MagicalNonDamage"
 data "PrepareEffect" "bde8bd40-e42d-4aca-a7f4-c49a02fa1646"
-data "CastEffect" "56ea5092-8ecd-4b86-8686-c1c35d016928"
+data "CastEffect" "eee49fcb-6333-46f1-8937-2979d3f5e440"
 data "VerbalIntent" "Buff"
 
 new entry "Shout_Nebulous_Form_Comet"

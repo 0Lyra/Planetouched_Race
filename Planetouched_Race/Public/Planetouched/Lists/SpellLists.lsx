@@ -11,12 +11,22 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Void;Projectile_Soul_Star_Void"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Soul_Star_Void"/>
                     <attribute id="UUID" type="guid" value="cea223db-5a6e-4f6b-b08b-98ca9ee426b6"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Comet;Projectile_Soul_Star_Comet"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Void"/>
+                    <attribute id="UUID" type="guid" value="519d519d-7395-4010-a344-47496a0da01e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_Rain_of_Stars_Void"/>
+                    <attribute id="UUID" type="guid" value="e3e23a21-fe99-4d55-a12d-30036b34987c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Comet;Target_Theurgy"/>
                     <attribute id="UUID" type="guid" value="869890ec-7dad-40f6-b965-65845fd55327"/>
                 </node>
             </children>
