@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
-  <region id="Races">
-    <node id="root">
-      <children>
-        <node id="Race">
-            <attribute id="Description" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />   description race 
-            <attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />   subrace
-            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
-            <attribute id="Name" type="FixedString" value="Planetouched" />       internal name for race
-            <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
-            <attribute id="ProgressionTableUUID" type="guid" value="281d5f0f-d4d6-4a67-b5c0-8fcb74465031" />    the level up stuff under the Progressions folder, diff from subrace
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
-            <attribute id="BloodType" type="FixedString" value="Silver" />
-            <attribute id="UUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" /> Race UUID, keep this for adding hairs etc
-                <children>
+<version major="4" minor="0" revision="9" build="328" />
+    <region id="Races">
+        <node id="root">
+            <children>
+                <node id="Race">
+                    <attribute id="Description" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />   description race 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />   subrace
+                    <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
+                    <attribute id="Name" type="FixedString" value="Planetouched" />       internal name for race
+                    <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
+                    <attribute id="ProgressionTableUUID" type="guid" value="281d5f0f-d4d6-4a67-b5c0-8fcb74465031" />    the level up stuff under the Progressions folder, diff from subrace
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
+                    <attribute id="BloodType" type="FixedString" value="Silver" />
+                    <attribute id="UUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" /> Race UUID, keep this for adding hairs etc
+                    <children>
                         <!--TAGS-->
                         <node id="Tags"><!--"Planetouched tag"-->
                             <attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" />
@@ -1638,76 +1638,102 @@
                         <node id="Visuals">
                             <attribute id="Object" type="guid" value="cd480bbf-02a2-496c-a1ca-785ae04b2edd" />
                         </node>
-                </children>
+                    </children>
+                </node>
+                <node id="Race">
+                    <attribute id="Description" type="TranslatedString" handle="h0f6acb14g0be8g4456gb1f2gca6048448d87" version="1" />   description sub race
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b6b17e3g220bg4682g818bg45757c672e25" version="1" />   name subrace
+                    <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
+                    <attribute id="Name" type="FixedString" value="Planetouched_Void" />       internal name for subrace
+                    <attribute id="ParentGuid" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />      subrace of Custom Race Main
+                    <attribute id="ProgressionTableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" />    the level up stuff under the Progressions folder, diff from main race
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the subrace
+                    <attribute id="UUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681" /> Race UUID, keep this for adding hairs etc
+                    <attribute id="BloodType" type="FixedString" value="Silver" />
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag void
+                        </node>
+                        <!--EYE COLORS-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="ea77d056-985f-4240-a884-07d6843ed68b" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="186d13ba-9c8f-4e9b-b706-38401ca8d225" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="5dde360c-4da1-446b-a46f-4513c89278ac" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="b90c99c9-ad35-4bc4-a3e5-823aa4f7b075" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="6f866078-f5f3-4055-8932-1b819e2cea8d" />
+                        </node>
+                        <!--SKIN COLORS-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="80ab2210-6b7c-4bec-ad7a-2d3fbe66031c" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="6cb72c64-4ca6-4db5-95c7-22f3f1d078d8" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="eed58a2e-a53c-41f0-9018-3d3c2cd0c323" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="c9d43bf6-f089-4633-a7e1-172407aceb28" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="3f0cad20-f057-4cfb-be34-c8fa791b3162" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="6c730655-4227-4e1a-b95d-9c61f53452a1" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="4091a885-f905-451c-9d4c-9237a00afcb7" />
+                        </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="ae864342-b091-4930-8028-d9cd005117c9" />
+                        </node>
+                    </children>
+                </node>
+                <node id="Race">
+                    <attribute id="Description" type="TranslatedString" handle="h910d0bdege769g4431ga981gba75863b7eb5" version="1" />   description sub race
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c6b7f0ege1aeg4f86g905fg71f313044531" version="1" />   name subrace
+                    <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
+                    <attribute id="Name" type="FixedString" value="Planetouched_Comet" />       internal name for subrace
+                    <attribute id="ParentGuid" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />      subrace of Custom Race Main
+                    <attribute id="ProgressionTableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" />    the level up stuff under the Progressions folder, diff from main race
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the subrace
+                    <attribute id="UUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> Race UUID, keep this for adding hairs etc
+                    <attribute id="BloodType" type="FixedString" value="Silver" />
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="97a00724-e317-4a55-ac86-010cd7ac686b" /> Custom Sub Race tag comet
+                        </node>
+                        <!--EYE COLORS-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="b828d0b6-99df-4a22-8a1f-3457afd67fe9" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="c914b88a-1378-4297-ad43-866d541a1a01" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="ec375451-d65c-4a45-bba4-623b7ebd0842" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="23f88ec9-bde2-4e38-8c79-ae994f1081a9" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="24807996-6aa7-4260-a255-f4d0c4fc96f7" />
+                        </node>
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="5948aa0a-e0c6-42ed-969f-e4c16a08773c" />
+                        </node>
+                        <!--SKIN COLORS-->
+                    </children>
+                </node>
+            </children>
         </node>
-        <node id="Race">
-            <attribute id="Description" type="TranslatedString" handle="h0f6acb14g0be8g4456gb1f2gca6048448d87" version="1" />   description sub race
-            <attribute id="DisplayName" type="TranslatedString" handle="h8b6b17e3g220bg4682g818bg45757c672e25" version="1" />   name subrace
-            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
-            <attribute id="Name" type="FixedString" value="Planetouched_Void" />       internal name for subrace
-            <attribute id="ParentGuid" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />      subrace of Custom Race Main
-            <attribute id="ProgressionTableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" />    the level up stuff under the Progressions folder, diff from main race
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the subrace
-            <attribute id="UUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681" /> Race UUID, keep this for adding hairs etc
-            <attribute id="BloodType" type="FixedString" value="Silver" />
-                <children>
-                    <node id="Tags">
-                        <attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag void
-                    </node>
-                    <!--EYE COLORS-->
-                    <node id="EyeColors">
-                        <attribute id="Object" type="guid" value="b90c99c9-ad35-4bc4-a3e5-823aa4f7b075" />
-                    </node>
-                    <node id="EyeColors">
-                        <attribute id="Object" type="guid" value="6f866078-f5f3-4055-8932-1b819e2cea8d" />
-                    </node>
-                    <node id="EyeColors">
-                        <attribute id="Object" type="guid" value="ea77d056-985f-4240-a884-07d6843ed68b" />
-                    </node>
-                    <!--SKIN COLORS-->
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="80ab2210-6b7c-4bec-ad7a-2d3fbe66031c" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="6cb72c64-4ca6-4db5-95c7-22f3f1d078d8" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="eed58a2e-a53c-41f0-9018-3d3c2cd0c323" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="c9d43bf6-f089-4633-a7e1-172407aceb28" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="3f0cad20-f057-4cfb-be34-c8fa791b3162" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="6c730655-4227-4e1a-b95d-9c61f53452a1" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="4091a885-f905-451c-9d4c-9237a00afcb7" />
-                    </node>
-                    <node id="SkinColors">
-                        <attribute id="Object" type="guid" value="ae864342-b091-4930-8028-d9cd005117c9" />
-                    </node>
-                </children>
-        </node>
-        <node id="Race">
-            <attribute id="Description" type="TranslatedString" handle="h910d0bdege769g4431ga981gba75863b7eb5" version="1" />   description sub race
-            <attribute id="DisplayName" type="TranslatedString" handle="h3c6b7f0ege1aeg4f86g905fg71f313044531" version="1" />   name subrace
-            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
-            <attribute id="Name" type="FixedString" value="Planetouched_Comet" />       internal name for subrace
-            <attribute id="ParentGuid" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />      subrace of Custom Race Main
-            <attribute id="ProgressionTableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" />    the level up stuff under the Progressions folder, diff from main race
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the subrace
-            <attribute id="UUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> Race UUID, keep this for adding hairs etc
-            <attribute id="BloodType" type="FixedString" value="Silver" />
-                <children>
-                    <node id="Tags">
-                        <attribute id="Object" type="guid" value="97a00724-e317-4a55-ac86-010cd7ac686b" /> Custom Sub Race tag comet
-                    </node>                     
-                </children>
-        </node>
-      </children>
-    </node>
-  </region>
+    </region>
 </save>

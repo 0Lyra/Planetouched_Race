@@ -8,22 +8,78 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h17da98c8g6a54g4407g9505g7fd148db801e" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="918f21d7-ed86-4e6b-9645-7f5f22facbe3"/>
                     <attribute id="Name" type="FixedString" value="P_EYES_Primeval_Current"/>
-                    <attribute id="UIColor" type="LSString" value="#FF7985ca"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6e84c4"/>
                     <attribute id="UUID" type="guid" value="b90c99c9-ad35-4bc4-a3e5-823aa4f7b075"/>
                 </node>
                 <node id="CharacterCreationEyeColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h60c560b3g1d26g49bfg80e5ga0c6a3238fc0" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="f4a5c64a-b4fd-4976-b8d9-a044e59c103c"/>
                     <attribute id="Name" type="FixedString" value="P_EYES_Eternal_Fog"/>
-                    <attribute id="UIColor" type="LSString" value="#FF6b8c98"/>
+                    <attribute id="UIColor" type="LSString" value="#FFa6cce2"/>
                     <attribute id="UUID" type="guid" value="6f866078-f5f3-4055-8932-1b819e2cea8d"/>
                 </node>
                 <node id="CharacterCreationEyeColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hdc99b91dg27f3g4fd2ga4bbgad28e32f95d9" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="1c21b0a9-1618-4b14-b7c3-e7516ac0d1ca"/>
                     <attribute id="Name" type="FixedString" value="P_EYES_Astral_Magic"/>
-                    <attribute id="UIColor" type="LSString" value="#FFb466a4"/>
+                    <attribute id="UIColor" type="LSString" value="#FFb85bd1"/>
                     <attribute id="UUID" type="guid" value="ea77d056-985f-4240-a884-07d6843ed68b"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h16096eefg6cdbg474bg8f99g9af2aa43c828" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6d298974-f897-4eb8-8afb-e0a87c72ccad"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Schism"/>
+                    <attribute id="UIColor" type="LSString" value="#FF32338a"/>
+                    <attribute id="UUID" type="guid" value="186d13ba-9c8f-4e9b-b706-38401ca8d225"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8f4e28f9gd4fdg4753gbf2agaddb9d025672" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0035e99a-e89d-427e-b2f9-489a9d888d4d"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Evening_Tides"/>
+                    <attribute id="UIColor" type="LSString" value="#FF3f45bf"/>
+                    <attribute id="UUID" type="guid" value="5dde360c-4da1-446b-a46f-4513c89278ac"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha89318bbg0415g40degbdcag4bcde5809964" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e0cd15ea-a574-4251-b84c-7983ab9a4a48"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Gossamer_Veil"/>
+                    <attribute id="UIColor" type="LSString" value="#FFeccf6b"/>
+                    <attribute id="UUID" type="guid" value="ec375451-d65c-4a45-bba4-623b7ebd0842"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="heefad660g2cedg4db2g8769g4811b241e44a" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="41f2a916-9df7-4570-8427-d096f37bf567"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Gossamer_Veil_V2"/>
+                    <attribute id="UIColor" type="LSString" value="#FFefe764"/>
+                    <attribute id="UUID" type="guid" value="23f88ec9-bde2-4e38-8c79-ae994f1081a9"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h48d75759g7ec4g49d3ga593gf52746698ac8" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5c53870e-5bd5-4a55-9ab9-39f59bc01954"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Drowned_Consciousness"/>
+                    <attribute id="UIColor" type="LSString" value="#FFf4deb9"/>
+                    <attribute id="UUID" type="guid" value="c914b88a-1378-4297-ad43-866d541a1a01"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="habfac986ga7aag4ccdga9f3g6a5b0bc95f60" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="88d0d281-4a56-459a-8aa0-5e8f23a5cb69"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Actias_Luna"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5cccae"/>
+                    <attribute id="UUID" type="guid" value="24807996-6aa7-4260-a255-f4d0c4fc96f7"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h045771d5gd7f5g4a6bgb759gccbfca75dd70" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a6c63bed-9723-41b6-86af-18c72133877f"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Faith"/>
+                    <attribute id="UIColor" type="LSString" value="#FFd9d3d4"/>
+                    <attribute id="UUID" type="guid" value="b828d0b6-99df-4a22-8a1f-3457afd67fe9"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf4ddef2agd638g4138ga109g98fcc41415f6" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="d18ede9a-fc13-4f55-abbb-e5912c34e4ea"/>
+                    <attribute id="Name" type="FixedString" value="P_EYES_Delirium"/>
+                    <attribute id="UIColor" type="LSString" value="#FF3098be"/>
+                    <attribute id="UUID" type="guid" value="5948aa0a-e0c6-42ed-969f-e4c16a08773c"/>
                 </node>
             </children>
         </node>
