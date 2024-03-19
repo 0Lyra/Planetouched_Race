@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int64" value="64"/>
+                    <attribute id="Width" type="int64" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="LSString" value="Assets\Textures\Icons\Icons_Planetouched.dds"/>
+                    <attribute id="UUID" type="FixedString" value="6f2acca9-b493-40cd-8463-e2d1392c95c8"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int64" value="2048"/>
+                    <attribute id="Width" type="int64" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Evocation_SoulSliver"/> 1
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.03125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Evocation_SoulSliver_Status"/> 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Abjuration_NebulousForm"/> 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Abjuration_NebulousForm_Status"/> 4 
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Abjuration_NebulousForm_Comet"/> 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Evocation_RainOfStars"/> 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Conjuration_PlanarStep"/> 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 33 ROW 2 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 34 ROW 2 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 35 ROW 2 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 36 ROW 2 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 37 ROW 2 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 38 ROW 2 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 39 ROW 2 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 40 ROW 2 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 41 ROW 2 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 42 ROW 2 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 43 ROW 2 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 44 ROW 2 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 45 ROW 2 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 46 ROW 2 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 47 ROW 2 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 48 ROW 2 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 49 ROW 2 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 50 ROW 2 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 51 ROW 2 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 52 ROW 2 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 53 ROW 2 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 54 ROW 2 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 55 ROW 2 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 56 ROW 2 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 57 ROW 2 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 58 ROW 2 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 59 ROW 2 = 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 60 ROW 2 = 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>			
+                </node>		
+               <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 61 ROW 2 = 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>	
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 62 ROW 2 = 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>	
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 63 ROW 2 = 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 64 ROW 2 = 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 65 ROW 3 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 66 ROW 3 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 67 ROW 3 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 68 ROW 3 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 69 ROW 3 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 70 ROW 3 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 71 ROW 3 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 72 ROW 3 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 73 ROW 3 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 74 ROW 3 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 75 ROW 3 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 76 ROW 3 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 77 ROW 3 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 78 ROW 3 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 79 ROW 3 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 80 ROW 3 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 81 ROW 3 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 82 ROW 3 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 83 ROW 3 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 84 ROW 3 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 85 ROW 3 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 86 ROW 3 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 87 ROW 3 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 88 ROW 3 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 89 ROW 3 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>		
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 90 ROW 3 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>		
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 91 ROW 3 = 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>	
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 92 ROW 3 = 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>		
+                </node>		
+               <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 93 ROW 3 = 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 94 ROW 3 = 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 95 ROW 3 = 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 96 ROW 3 = 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 97 ROW 4 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 98 ROW 4 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 99 ROW 4 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 100 ROW 4 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 101 ROW 4 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 102 ROW 4 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 103 ROW 4 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 104 ROW 4 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 105 ROW 4 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 106 ROW 4 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 107 ROW 4 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 108 ROW 4 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 109 ROW 4 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 110 ROW 4 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 111 ROW 4 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 112 ROW 4 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 113 ROW 4 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 114 ROW 4 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 115 ROW 4 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 116 ROW 4 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>			
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 117 ROW 4 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 118 ROW 4 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 119 ROW 4 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 120 ROW 4 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 121 ROW 4 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 122 ROW 4 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 123 ROW 4 = 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>		
+                </node>		
+               <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 124 ROW 4 = 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 125 ROW 4 = 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 126 ROW 4 = 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 127 ROW 4 = 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>					
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 128 ROW 4 = 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 129 ROW 5 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 130 ROW 5 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 131 ROW 5 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 132 ROW 5 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 133 ROW 5 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 134 ROW 5 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 135 ROW 5 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 136 ROW 5 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 137 ROW 5 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 138 ROW 5 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 139 ROW 5 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 140 ROW 5 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 141 ROW 5 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 142 ROW 5 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 143 ROW 5 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 144 ROW 5 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 145 ROW 5 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 146 ROW 5 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 147 ROW 5 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 148 ROW 5 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 149 ROW 5 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 150 ROW 5 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 151 ROW 5 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 152 ROW 5 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 153 ROW 5 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 154 ROW 5 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 155 ROW 5 = 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 156 ROW 5 = 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 157 ROW 5 = 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 158 ROW 5 = 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 159 ROW 5 = 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 160 ROW 5 = 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.125"/>
+                    <attribute id="V2" type="float" value="0.15625"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 161 ROW 6 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 162 ROW 6 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 163 ROW 6 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 164 ROW 6 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 165 ROW 6 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 166 ROW 6 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 167 ROW 6 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 168 ROW 6 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 169 ROW 6 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 170 ROW 6 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 171 ROW 6 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 172 ROW 6 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 173 ROW 6 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 174 ROW 6 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 175 ROW 6 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 176 ROW 6 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 177 ROW 6 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 178 ROW 6 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 179 ROW 6 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 180 ROW 6 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+               <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 181 ROW 6 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 182 ROW 6 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 183 ROW 6 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 184 ROW 6 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 185 ROW 6 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 186 ROW 6 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 187 ROW 6 = 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>	
+                </node>		
+               <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 188 ROW 6 = 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 189 ROW 6 = 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 190 ROW 6 = 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 191 ROW 6 = 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>					
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 192 ROW 6 = 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.15625"/>
+                    <attribute id="V2" type="float" value="0.1875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 193 ROW 7 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 194 ROW 7 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 195 ROW 7 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 196 ROW 7 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 197 ROW 7 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 198 ROW 7 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 199 ROW 7 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 200 ROW 7 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 201 ROW 7 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 202 ROW 7 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 203 ROW 7 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 204 ROW 7 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 205 ROW 7 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 206 ROW 7 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 207 ROW 7 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 208 ROW 7 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 209 ROW 7 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 210 ROW 7 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 211 ROW 7 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 212 ROW 7 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 213 ROW 7 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 214 ROW 7 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 215 ROW 7 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 216 ROW 7 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 217 ROW 7 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 218 ROW 7 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 219 ROW 7 = 27
+                    <attribute id="U1" type="float" value="0.8125"/>
+                    <attribute id="U2" type="float" value="0.84375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 220 ROW 7 = 28
+                    <attribute id="U1" type="float" value="0.84375"/>
+                    <attribute id="U2" type="float" value="0.875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 221 ROW 7 = 29
+                    <attribute id="U1" type="float" value="0.875"/>
+                    <attribute id="U2" type="float" value="0.90625"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 222 ROW 7 = 30
+                    <attribute id="U1" type="float" value="0.90625"/>
+                    <attribute id="U2" type="float" value="0.9375"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 223 ROW 7 = 31
+                    <attribute id="U1" type="float" value="0.9375"/>
+                    <attribute id="U2" type="float" value="0.96875"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 224 ROW 7 = 32
+                    <attribute id="U1" type="float" value="0.96875"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.1875"/>
+                    <attribute id="V2" type="float" value="0.21875"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 225 ROW 8 = 1
+                    <attribute id="U1" type="float" value="0.0"/> side
+                    <attribute id="U2" type="float" value="0.03125"/> side
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 226 ROW 8 = 2
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 227 ROW 8 = 3
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 228 ROW 8 = 4
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 229 ROW 8 = 5
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 230 ROW 8 = 6
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 231 ROW 8 = 7
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 232 ROW 8 = 8
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 233 ROW 8 = 9
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 234 ROW 8 = 10
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 235 ROW 8 = 11
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 236 ROW 8 = 12
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 237 ROW 8 = 13
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 238 ROW 8 = 14
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 239 ROW 8 = 15
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 240 ROW 8 = 16
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 241 ROW 8 = 17
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 242 ROW 8 = 18
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 243 ROW 8 = 19
+                    <attribute id="U1" type="float" value="0.5625"/>
+                    <attribute id="U2" type="float" value="0.59375"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 244 ROW 8 = 20
+                    <attribute id="U1" type="float" value="0.59375"/>
+                    <attribute id="U2" type="float" value="0.625"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 245 ROW 8 = 21
+                    <attribute id="U1" type="float" value="0.625"/>
+                    <attribute id="U2" type="float" value="0.65625"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 246 ROW 8 = 22
+                    <attribute id="U1" type="float" value="0.65625"/>
+                    <attribute id="U2" type="float" value="0.6875"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 247 ROW 8 = 23
+                    <attribute id="U1" type="float" value="0.6875"/>
+                    <attribute id="U2" type="float" value="0.71875"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 248 ROW 8 = 24
+                    <attribute id="U1" type="float" value="0.71875"/>
+                    <attribute id="U2" type="float" value="0.75"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 249 ROW 8 = 25
+                    <attribute id="U1" type="float" value="0.75"/>
+                    <attribute id="U2" type="float" value="0.78125"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 250 ROW 8 = 26
+                    <attribute id="U1" type="float" value="0.78125"/>
+                    <attribute id="U2" type="float" value="0.8125"/>
+                    <attribute id="V1" type="float" value="0.21875"/>
+                    <attribute id="V2" type="float" value="0.25"/>
+                </node>						
+            </children>
+        </node>
+    </region>
+</save>
