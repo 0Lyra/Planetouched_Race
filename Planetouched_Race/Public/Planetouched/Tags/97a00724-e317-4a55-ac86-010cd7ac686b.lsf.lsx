@@ -3,7 +3,7 @@
 	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="|Comet Planetouched|" />
+			<attribute id="Description" type="LSString" value="|Lumen Planetouched|" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h910d0bdege769g4431ga981gba75863b7eb5" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h3c6b7f0ege1aeg4f86g905fg71f313044531" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />

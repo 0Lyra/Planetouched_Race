@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="|Gloam Planetouched|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h0f6acb14g0be8g4456gb1f2gca6048448d87" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h8b6b17e3g220bg4682g818bg45757c672e25" version="1" />
+			<attribute id="Description" type="LSString" value="|Planetouched|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h6249cc7fg5d32g4596g8622g60c50d7e02d4" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Planetouched_Void" />
-			<attribute id="UUID" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" />
+			<attribute id="Name" type="FixedString" value="REALLY_Planetouched" />
+			<attribute id="UUID" type="guid" value="b5ac6303-4640-4ae6-a538-076479502059" /> custom race tag uuid
 			<children>
 				<node id="Categories">
 					<children>
@@ -23,9 +23,6 @@
 						</node>
 						<node id="Category">
 							<attribute id="Name" type="LSString" value="PlayerRace" />
-						</node>
-						<node id="Category">
-							<attribute id="Name" type="LSString" value="CharacterSheet" />
 						</node>
 					</children>
 				</node>

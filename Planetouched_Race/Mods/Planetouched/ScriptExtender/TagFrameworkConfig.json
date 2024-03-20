@@ -1,0 +1,29 @@
+{
+    "FileVersion": 1,
+    "Tags": [
+      {
+        "modGuids": ["315ce1a1-0f24-4777-90d9-06b01a93a716"],
+        "Type": "Race",
+        "Tag": "Planetouched_a6076cac-5708-42a7-9f81-d80a411b9157",
+        "ReallyTag": "REALLY_Planetouched_b5ac6303-4640-4ae6-a538-076479502059",
+        "TagsToExclude": ["Baldurian"],
+        "RaceMetaTags": ["Planar","Rare"]
+      },
+      {
+        "modGuids": ["315ce1a1-0f24-4777-90d9-06b01a93a716"],
+        "Type": "Race",
+        "Tag": "Planetouched_Void_91e34fa5-f8b0-4f92-83f4-a4547da94357",
+        "ReallyTag": "REALLY_Planetouched_b5ac6303-4640-4ae6-a538-076479502059",
+        "TagsToExclude": ["Baldurian"],
+        "RaceMetaTags": ["Planar","Rare"]
+      },
+      {
+        "modGuids": ["315ce1a1-0f24-4777-90d9-06b01a93a716"],
+        "Type": "Race",
+        "Tag": "Planetouched_Comet_97a00724-e317-4a55-ac86-010cd7ac686b",
+        "ReallyTag": "REALLY_Planetouched_b5ac6303-4640-4ae6-a538-076479502059",
+        "TagsToExclude": ["Baldurian"],
+        "RaceMetaTags": ["Planar","Rare"]
+      }
+    ]
+  }

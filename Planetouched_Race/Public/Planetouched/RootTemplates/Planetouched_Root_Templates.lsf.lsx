@@ -9,7 +9,6 @@
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Planetouched" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
-					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="cd6bf9f1-208c-478f-9828-69eeb22b5712" /> which models to load
 					<attribute id="Race" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" /> define race as Custom Race
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBloodSilver" />
@@ -17,7 +16,10 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> Custom Race tag TBA
+									<attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> Planetouched
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b5ac6303-4640-4ae6-a538-076479502059" /> REALLY_Planetouched
 								</node>
 							</children>
 						</node>
@@ -38,7 +40,10 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> Custom Race tag TBA
+									<attribute id="Object" type="guid" value="a6076cac-5708-42a7-9f81-d80a411b9157" /> Planetouched
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b5ac6303-4640-4ae6-a538-076479502059" /> REALLY_Planetouched
 								</node>
 							</children>
 						</node>
@@ -75,7 +80,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" /> Custom Sub Race tag
+									<attribute id="Object" type="guid" value="91e34fa5-f8b0-4f92-83f4-a4547da94357" />
 								</node>
 							</children>
 						</node>
