@@ -699,6 +699,120 @@
                         </node>
                     </children>
                 </node>
+                <!-- HEADS -->
+                <!-- VEMPEREN -->
+                <!-- Female -->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- Sylva (Elf) (NEW) -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_ccc0b9e2-a6f4-4f6a-bc91-40c918249e81"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="a7fa0823-ca60-4a70-a1be-944253d2de3d" />
+                    <attribute id="VisualResource" type="guid" value="db05a77c-021e-4404-80b1-ae97750fde2c" />
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h042bd26dg084dg48d0gb321g073d9b6ae568" version="4" /> <!-- ELF_F_A1 (NEW) -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_aaa9c522-3143-47f1-99c1-8655b1b9fcd5"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="2a7a3179-eff0-4bff-b31a-5b6b2ebdc7da" />
+                    <attribute id="VisualResource" type="guid" value="3ab8cee4-e481-4bee-a946-20c61f0438cd" />
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="haabb09c2ge71eg4390ga1c3gc57115b4f4b4" version="4" /> <!-- ELF_F_A2 (NEW) -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_d3de6ee4-a2e8-41df-b31f-4040657bda86"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="dc58e017-edd6-4129-995e-d3384d31d442" />
+                    <attribute id="VisualResource" type="guid" value="789400be-6ea5-48fc-877a-5cd06bafbd3b" />
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h68b0ad4dg01fag41e3gaf06g2850402320af" version="4" /> <!-- ELF_F_C1 -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_752920e7-cc38-454f-bae5-6908e2b18439"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="044916dd-6396-41f9-b875-2213e35c0d7c" />
+                    <attribute id="VisualResource" type="guid" value="59223365-a2d2-44fb-aaff-884a4f842207" />
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h74be83bagc473g4c38gbd35g3861c0136e1a" version="4" /> <!-- ELF_F_D1 -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_a90fd125-7299-4447-ae12-a646f58398fa"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="c67157a6-612d-452d-a163-2afaf2bedde9" />
+                    <attribute id="VisualResource" type="guid" value="f79e8aa4-db56-48b5-a1c9-a48b707dbe52" />
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4de61af6gb1a7g4a90gb898gc530afd44e54" version="4" /> <!-- ELF_F_D2 -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_629e8f2c-e200-4d25-b0ab-eeb3495948bf"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="c3e15f48-6de3-46dc-9149-620a178fbd23" />
+                    <attribute id="VisualResource" type="guid" value="d85b90eb-0d4b-4502-94a1-fd17ea73c7a0" />
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="heab6c05cgc686g4890ga149g9af1a1271746" version="4" /> <!-- ELF_F_F1 -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_ced20b8c-ded3-4c4b-847b-7c8a29cee184"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="38aea712-ead3-4ee3-8bb6-94f79bceaa11" />
+                    <attribute id="VisualResource" type="guid" value="10af34bc-0013-4239-94c6-468a22247e34" />
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfc8dacfeg95c4g41dagaf15gad57d7a9e6bf" version="4" /> <!-- Minerva Elf -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Head_d44bb3cb-ce64-4bda-9f52-2236ac48562a"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="7ef11615-d902-4833-a05c-8b19bb2e175d" />
+                    <attribute id="VisualResource" type="guid" value="b7a5c676-88c9-42b4-ad17-d60f6a4c9f28" />
+                </node>
+                <!-- Male -->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="haf4ce9a7g94feg44e5gb94fg1084ea6883ec" version="4" /> <!-- ELF_M_B1 -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_04578bd9-1a5b-4d5d-8ea1-4fb4193e10d4"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="35c6c466-081f-4957-8ceb-a1c40aafcd24" />
+                    <attribute id="VisualResource" type="guid" value="26bf145b-add4-44b1-a8af-79ff328bc00c" />
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7e945368g5082g492dgb4dagc0f09ee247db" version="4" /> <!-- ELF_M_F1 -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_cb06633e-3c45-4ee5-b11d-3c17c77fcb98"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="6216c27d-9f2c-4160-a55d-24a6537cd32a" />
+                    <attribute id="VisualResource" type="guid" value="ddb746ae-069a-4815-a87e-4df80dcc78be" />
+                </node>
                 <!-- HAIR -->
                 <!-- SILVER'S HAIR PACK 1 -->
                 <!--Female-->
