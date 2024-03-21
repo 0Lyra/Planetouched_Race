@@ -105,7 +105,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8a0bdb3c-86fb-4ba9-86a2-cb841ae54a90" />
-							<attribute id="ObjectID" type="FixedString" value="Trips_Stars_Fem.Trips_Stars_Fem_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Lyra_Stars_Fem.Lyra_Stars_Fem_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -223,7 +223,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8a0bdb3c-86fb-4ba9-86a2-cb841ae54a90" />
-							<attribute id="ObjectID" type="FixedString" value="Trips_Stars_Masc.Trips_Stars_Masc_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Lyra_Stars_Masc.Lyra_Stars_Masc_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
