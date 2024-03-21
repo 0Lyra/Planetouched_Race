@@ -298,6 +298,47 @@
 									<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_H.ELF_M_NKD_Head_H_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
+								<!-- VEMPEREN HEADS -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_Daphne.ELF_F_Head_Daphne_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_A1.ELF_F_Head_A1_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_A2.ELF_F_Head_A2_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_C1.ELF_F_Head_C1_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_D1.ELF_F_Head_D1_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_D2.ELF_F_Head_D2_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Head_F1.ELF_F_Head_F1_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_F_Minerva.ELF_F_Minerva_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_Head_B1.ELF_M_Head_B1_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_M_Head_F1.ELF_M_Head_F1_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
 							</children>
 						</node>
 						<node id="Slots">

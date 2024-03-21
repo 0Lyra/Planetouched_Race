@@ -765,6 +765,53 @@
                     </children>
                 </node>
                 <!-- HEADS -->
+                <!-- courierseis -->
+                <!-- Female -->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- F_HEAD_A -->
+					<attribute id="IconIdOverride" type="FixedString" value=""/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="2121f896-8fbb-4847-b67d-66dd1b66646f" />
+                    <attribute id="VisualResource" type="guid" value="f4dd7e43-1f54-4bdc-8445-189866f5f08e" />
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- F_HEAD_B -->
+					<attribute id="IconIdOverride" type="FixedString" value=""/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="17def6f6-c055-4fe3-84c2-303c92ee6014" />
+                    <attribute id="VisualResource" type="guid" value="97619994-16aa-4dcd-aca7-998198d2b956" />
+                </node>
+                <!-- Male -->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- M_HEAD_A -->
+					<attribute id="IconIdOverride" type="FixedString" value=""/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="bfec7a8c-766c-4c69-be4a-7a8f84f2a121" />
+                    <attribute id="VisualResource" type="guid" value="74360a12-0d83-4d5c-8134-8ab5e7095187" />
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" />
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- M_HEAD_B -->
+					<attribute id="IconIdOverride" type="FixedString" value=""/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="cae93041-2854-4de0-91f0-2e85b8e7b359" />
+                    <attribute id="VisualResource" type="guid" value="d75b0ed1-be60-433a-8da2-29df777589f0" />
+                </node>
                 <!-- VEMPEREN -->
                 <!-- Female -->
                 <node id="CharacterCreationAppearanceVisual">
