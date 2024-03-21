@@ -107,6 +107,13 @@
 									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.30980393 0.30588236 0.63529414" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
 									<attribute id="Value" type="fvec3" value="0.8901961 0.9098039 0.9490196" />
 								</node>
@@ -218,6 +225,13 @@
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.85882354 0.9254902 0.95686275" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
 									<attribute id="Value" type="fvec3" value="0.85882354 0.9254902 0.95686275" />
 								</node>
 								<node id="Vector3Parameters">
@@ -341,6 +355,13 @@
 									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.89411765 0.35686275 0.69803923" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
 									<attribute id="Value" type="fvec3" value="0.3372549 0.28235295 0.37254903" />
 								</node>
@@ -452,6 +473,13 @@
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.63529414 0.75686276 0.81960785" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
 									<attribute id="Value" type="fvec3" value="0.63529414 0.75686276 0.81960785" />
 								</node>
 								<node id="Vector3Parameters">
@@ -575,6 +603,13 @@
 									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.23137255 0.21568628 0.90588236" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
 									<attribute id="Value" type="fvec3" value="0.3372549 0.33333334 0.3764706" />
 								</node>
@@ -686,6 +721,13 @@
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.627451 0.8666667 0.8666667" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
 									<attribute id="Value" type="fvec3" value="0.627451 0.8666667 0.8666667" />
 								</node>
 								<node id="Vector3Parameters">
@@ -809,6 +851,13 @@
 									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.627451 0.8666667 0.8666667" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
 									<attribute id="Value" type="fvec3" value="0.8039216 0.75686276 0.7176471" />
 								</node>
@@ -920,6 +969,13 @@
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.88235295 0.8117647 0.7176471" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
 									<attribute id="Value" type="fvec3" value="0.88235295 0.8117647 0.7176471" />
 								</node>
 								<node id="Vector3Parameters">
@@ -1043,6 +1099,13 @@
 									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.5058824 0.8784314 0.83137256" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
 									<attribute id="Value" type="fvec3" value="0.5294118 0.53333336 0.5019608" />
 								</node>
@@ -1160,6 +1223,13 @@
 									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.7607843 0.7647059 0.78039217" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
 									<attribute id="Value" type="fvec3" value="0.39215687 0.31764707 0.3019608" />
 								</node>
@@ -1271,6 +1341,13 @@
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.59607846 0.6392157 0.89411765" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowColour" />
 									<attribute id="Value" type="fvec3" value="0.59607846 0.6392157 0.89411765" />
 								</node>
 								<node id="Vector3Parameters">
