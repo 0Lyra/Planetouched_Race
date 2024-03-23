@@ -7,12 +7,12 @@
                 <node id="ActionResourceDefinition">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1"/>
                     <attribute id="IsHidden" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="Planetouched_Racial_Feature_1"/>
+                    <attribute id="Name" type="FixedString" value="Planetouched_Racial_Feature"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
                     <attribute id="UUID" type="guid" value="fec2562b-95ff-461a-9561-b4c0d5d03c3a"/>
                 </node>
-                <node id="ActionResourceDefinition">
+                <!-- <node id="ActionResourceDefinition">
                     <attribute id="DisplayName" type="TranslatedString" handle="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1"/>
                     <attribute id="IsHidden" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Planetouched_Racial_Feature_3"/>
@@ -27,7 +27,7 @@
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
                     <attribute id="UUID" type="guid" value="f68cbcc2-f666-4347-b0aa-9b7a12bbf720"/>
-                </node>
+                </node> -->
             </children>
         </node>
     </region>

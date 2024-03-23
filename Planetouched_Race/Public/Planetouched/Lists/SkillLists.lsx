@@ -5,8 +5,12 @@
         <node id="root">
             <children>
                 <node id="SkillList">
-                    <attribute id="Skills" type="LSString" value="Deception, Insight, Intimidation, Performance, Persuasion"/>
+                    <attribute id="Skills" type="LSString" value="Athletics, Deception, Investigation, Perception, Persuasion, Stealth"/>
                     <attribute id="UUID" type="guid" value="0219e1a0-9f56-4313-9ead-9638507ec19c"/>
+                </node>
+                <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="Arcana, Insight, Intimidation, Perception, Persuasion, Survival"/>
+                    <attribute id="UUID" type="guid" value="bbc03510-2150-4240-a539-82accda134e0"/>
                 </node>		
             </children>
         </node>

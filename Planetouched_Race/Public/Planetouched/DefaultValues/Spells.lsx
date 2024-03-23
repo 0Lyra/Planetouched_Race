@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_RangersCompanion_Raven_WHITE"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c"/>
+                    <attribute id="UUID" type="guid" value="06fe75df-951a-42a8-b195-fd29e4301dad"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Light"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630"/>
+                    <attribute id="UUID" type="guid" value="015d50bb-fe38-45ec-ad5f-257d572a7db5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

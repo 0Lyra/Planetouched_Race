@@ -29,12 +29,16 @@
     <content contentuid="h045771d5gd7f5g4a6bgb759gccbfca75dd70" version="1">Faith</content>
     <content contentuid="hf4ddef2agd638g4138ga109g98fcc41415f6" version="1">Delirium</content>
 	<!--PASSIVES-->
-    <content contentuid="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1">Planetouched Charge</content>
+    <content contentuid="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1">Planar Charge</content>
 	<content contentuid="hf0968a03gec69g4623gbcffg3e0949d1bb88" version="1">Darkvision</content>
 	<content contentuid="ha432083dgfaa0g476ag97acgbe83445ac4e5" version="1">You can see in ordinary darkness up to a range of [1].</content>
 	<content contentuid="h5988f0aegc64dg48efgaea5gab4d78536c99" version="1">Planetouched Mind</content>
 	<content contentuid="hff7c424bgd6acg4e42gaec6g162c83ae91be" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
-    <!--SPELLS-->
+    <content contentuid="h74cf54a8g0b1fg4d42g9180gfcdee2f54927" version="1">You may change your cantrip by selecting another one from the spell list below. This cantrip doesn't use &lt;LSTag Tooltip="SpellSlot"&gt;spell slots&lt;/LSTag&gt; and can be cast at will.</content>
+	<content contentuid="hec5c30ccg8e6fg415ag8169g754571c14f2f" version="1">Planetouched Cantrips</content>
+	<content contentuid="h7772a32eg1569g4ad2gba9fg9990ac5c0c70" version="1">Your Planar ancestry gives you access to certain spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
+	<content contentuid="h5c490ab7g7eabg44b3g97e9gce963478c79c" version="1">Planetouched Spells</content>
+	<!--SPELLS-->
     <content contentuid="hc185d2fag00ffg4ddegad89gf3a880f6f1b0" version="1">Planetouched: Nebulous Form</content>
     <content contentuid="h956ac6b4gd60eg4cfeg9df1gd0f811338a1d" version="4">Embracing your astral ancestry you transform your body to become &lt;LSTag Type="Passive" Tooltip="Nebulous_Form_Void"&gt;non-corporeal&lt;/LSTag&gt; and the Negative energy stored within you retaliates upon melee attack.</content>
     <content contentuid="hb66f8a46gbb48g4bf4ga44ag9bdde75c6c3a" version="2">Embracing your astral ancestry you transform your body to become &lt;LSTag Type="Passive" Tooltip="Nebulous_Form_Comet"&gt;non-corporeal&lt;/LSTag&gt; and the Positive energy stored within you retaliates upon melee attack, pushing the attacker away from you.</content>

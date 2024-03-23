@@ -26,8 +26,18 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Comet;Target_Theurgy;Target_PlanarStep"/>
+                    <attribute id="Spells" type="LSString" value="Target_PlanarStep"/>
                     <attribute id="UUID" type="guid" value="869890ec-7dad-40f6-b965-65845fd55327"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Nebulous_Form_Comet"/>
+                    <attribute id="UUID" type="guid" value="cc4a142d-0707-470b-9942-63e33dfc7f4d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Target_Theurgy"/>
+                    <attribute id="UUID" type="guid" value="91398573-40ae-41da-a841-84abdd7f9c6d"/>
                 </node>
             </children>
         </node>
