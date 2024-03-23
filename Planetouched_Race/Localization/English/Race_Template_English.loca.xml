@@ -28,6 +28,9 @@
     <content contentuid="habfac986ga7aag4ccdga9f3g6a5b0bc95f60" version="1">Actias Luna</content>
     <content contentuid="h045771d5gd7f5g4a6bgb759gccbfca75dd70" version="1">Faith</content>
     <content contentuid="hf4ddef2agd638g4138ga109g98fcc41415f6" version="1">Delirium</content>
+	<!-- HEADS CC -->
+	<content contentuid="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="1">Head A</content>
+    <content contentuid="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="1">Head B</content>
 	<!--PASSIVES-->
     <content contentuid="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1">Planar Charge</content>
 	<content contentuid="hf0968a03gec69g4623gbcffg3e0949d1bb88" version="1">Darkvision</content>

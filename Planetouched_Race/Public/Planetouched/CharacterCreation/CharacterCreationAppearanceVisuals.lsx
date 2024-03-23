@@ -771,7 +771,7 @@
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="1" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- F_HEAD_A -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="4" /> <!-- F_HEAD_A -->
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
@@ -782,7 +782,7 @@
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="1" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- F_HEAD_B -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="4" /> <!-- F_HEAD_B -->
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
@@ -794,7 +794,7 @@
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="0" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- M_HEAD_A -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="4" /> <!-- M_HEAD_A -->
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
@@ -805,7 +805,7 @@
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="0" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="he60891f9g68c3g4eb2gb071g34e8670c662b" version="4" /> <!-- M_HEAD_B -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="4" /> <!-- M_HEAD_B -->
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
