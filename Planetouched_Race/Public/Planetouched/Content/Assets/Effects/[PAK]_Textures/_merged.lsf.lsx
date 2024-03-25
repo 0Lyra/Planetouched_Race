@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="857cbfd0-9b59-407d-a06f-fb7aead52c58" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_BC5_Planetouched_Glyph_Theurgy_Prepare" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Public\Planetouched\Assets\Effects\Textures\VFX_BC5_Planetouched_Glyph_Theurgy_Prepare.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="VFX_BC5_Planetouched_Glyph_Theurgy_Prepare" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4" />
+					<attribute id="ID" type="FixedString" value="b774d8c4-db6c-4bd5-8b5c-b977f11ad35a" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_BC7C_GM_Color_Theurgy_Prepare" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Public\Planetouched\Assets\Effects\Textures\VFX_BC7C_GM_Color_Theurgy_Prepare.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="VFX_BC7C_GM_Color_Theurgy_Prepare" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="256" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+				</node>
+            </children>
+		</node>
+	</region>
+</save>
