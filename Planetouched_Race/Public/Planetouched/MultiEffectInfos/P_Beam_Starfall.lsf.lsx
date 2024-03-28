@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="302" lslib_meta="v1,bswap_guids" />
+	<region id="MultiEffectInfos">
+		<node id="MultiEffectInfos">
+			<attribute id="UUID" type="guid" value="84d1853c-7ac1-43a8-b3b7-957ec30504a8" />
+			<attribute id="Name" type="LSString" value="Sunbeam_BeamEffect" />
+			<children>
+				<node id="EffectInfo">
+					<attribute id="UUID" type="guid" value="bdf85c9d-de83-486c-aa39-c81c1ed75994" />
+					<attribute id="EffectResourceGuid" type="guid" value="8e59745d-4549-4fc2-8f32-5fda62e13ed2" />
+					<attribute id="DetachSource" type="bool" value="True" />
+					<attribute id="DetachTarget" type="bool" value="True" />
+					<attribute id="KeepRotation" type="bool" value="False" />
+					<attribute id="UseOrientDirection" type="bool" value="True" />
+					<attribute id="UseDistance" type="bool" value="True" />
+					<attribute id="UseScaleOverride" type="bool" value="False" />
+					<attribute id="KeepScale" type="bool" value="False" />
+					<attribute id="MainHand" type="bool" value="False" />
+					<attribute id="OffHand" type="bool" value="False" />
+					<attribute id="MinDistance" type="float" value="0" />
+					<attribute id="MaxDistance" type="float" value="0" />
+					<attribute id="BindSourceTo" type="FixedString" value="SourceEntity" />
+					<attribute id="BindTargetTo" type="FixedString" value="TargetEntity" />
+					<attribute id="Pivot" type="FixedString" value="Source" />
+					<attribute id="DamageType" type="uint32" value="0" />
+					<attribute id="VerbalIntent" type="uint32" value="0" />
+					<attribute id="StartTextKey" type="LSString" value="Cast" />
+					<attribute id="Enabled" type="bool" value="True" />
+					<children>
+						<node id="SourceBone">
+							<attribute id="Value" type="LSString" value="Dummy_CastFX" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

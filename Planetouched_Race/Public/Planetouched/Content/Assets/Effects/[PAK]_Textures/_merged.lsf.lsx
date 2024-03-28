@@ -32,6 +32,35 @@
 					<attribute id="Width" type="int32" value="256" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
 				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4" />
+					<attribute id="ID" type="FixedString" value="35347e4a-9b87-4744-babf-a379404d4fcc" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_BC6H_GM_Color_Starfall" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Public\Planetouched\Assets\Effects\Textures\VFX_BC6H_GM_Color_Starfall.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="VFX_BC6H_GM_Color_Starfall" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="256" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274112" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="0" />
+					<attribute id="Format" type="uint32" value="68" />
+					<attribute id="Height" type="int32" value="8" />
+					<attribute id="ID" type="FixedString" value="3a603d81-47ae-4f74-a5ce-945b8716568e" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_BC7C_GM_Color_Starfall_02" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Public\Planetouched\Assets\Effects\Textures\VFX_BC7C_GM_Color_Starfall_02.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="VFX_BC7C_GM_Color_Starfall_02" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855882" />
+				</node>
             </children>
 		</node>
 	</region>
