@@ -1425,6 +1425,108 @@
 						</node>
 					</children>
 				</node>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="5c53c6e3-2fd4-447a-aecf-623b5375f940" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VFX_Model_Additive_SphereMask_Fake_Raymarch_GuidingBolt_Impact_01" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Effects/Model/VFX_Model_Additive_SphereMask_Fake_Raymarch_01.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="2.333" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="SphereMask" />
+							<attribute id="ParameterName" type="FixedString" value="Hardness" />
+							<attribute id="Value" type="float" value="2.7" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="-5" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="SphereMask" />
+							<attribute id="ParameterName" type="FixedString" value="SphereMaskEXP" />
+							<attribute id="Value" type="float" value="-8" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="2.333" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="SphereMask" />
+							<attribute id="ParameterName" type="FixedString" value="SubtractiveHardness" />
+							<attribute id="Value" type="float" value="2.333" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="-5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="SphereMask" />
+							<attribute id="ParameterName" type="FixedString" value="SubtractiveSphereMaskEXP" />
+							<attribute id="Value" type="float" value="-5" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="SphereMask" />
+							<attribute id="ParameterName" type="FixedString" value="Use_SubtractiveSphereMask" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="DepthDistanceBlend" />
+							<attribute id="ParameterName" type="FixedString" value="DepthDistanceBlend" />
+							<attribute id="Value" type="float" value="1.5" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="ColorRamp" />
+							<attribute id="ParameterName" type="FixedString" value="Intensity" />
+							<attribute id="Value" type="float" value="2" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Color" />
+							<attribute id="IsColor" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="Color" />
+							<attribute id="Value" type="fvec3" value="0.09803922 0.34117648 0.5254902" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0 0 0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="SphereMask" />
+							<attribute id="IsColor" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="ObjectPos_Offset" />
+							<attribute id="Value" type="fvec3" value="0 0 0" />
+						</node>
+						<node id="VectorParameters">
+							<attribute id="BaseValue" type="fvec4" value="1 1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="Other" />
+							<attribute id="IsColor" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="_MeshVertexColor" />
+							<attribute id="Value" type="fvec4" value="0 0 0 1" />
+						</node>
+						<node id="VectorParameters">
+							<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="Other" />
+							<attribute id="IsColor" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="DynamicParameter" />
+							<attribute id="Value" type="fvec4" value="0 0 0 0" />
+						</node>
+					</children>
+				</node>
             </children>
 		</node>
 	</region>

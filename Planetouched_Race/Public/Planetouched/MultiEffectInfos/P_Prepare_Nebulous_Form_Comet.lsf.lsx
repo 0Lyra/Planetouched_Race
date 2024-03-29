@@ -32,7 +32,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="EffectInfo">
+				<!-- <node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="1c84753f-9426-42db-9525-c387ecc35aaf" />
 					<attribute id="EffectResourceGuid" type="guid" value="65405cef-99f9-495c-b5d9-7de6b7162f8f" />
 					<attribute id="DetachSource" type="bool" value="False" />
@@ -58,7 +58,7 @@
 							<attribute id="Value" type="LSString" value="Dummy_Root" />
 						</node>
 					</children>
-				</node>
+				</node> -->
                 <node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="c7ffb797-e4d1-4235-8c3e-9ba2d36fcb52" />
 					<attribute id="EffectResourceGuid" type="guid" value="feaa2407-b42a-4086-a178-9b2edf2e903a" />

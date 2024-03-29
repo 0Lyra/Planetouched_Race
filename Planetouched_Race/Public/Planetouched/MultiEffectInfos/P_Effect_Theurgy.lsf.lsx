@@ -24,24 +24,6 @@
 					<attribute id="UseOrientDirection" type="bool" value="False" />
 					<attribute id="UseScaleOverride" type="bool" value="False" />
 				</node>
-                <!-- <node id="EffectInfo">
-					<attribute id="BindSourceTo" type="FixedString" value="SourceEntity" />
-					<attribute id="BindTargetTo" type="FixedString" value="TargetEntity" />
-					<attribute id="DetachSource" type="bool" value="False" />
-					<attribute id="DetachTarget" type="bool" value="True" />
-					<attribute id="EffectResourceGuid" type="guid" value="3b7104a4-1a7d-4ce4-b904-d4c0707ad6ad" />
-					<attribute id="KeepRotation" type="bool" value="False" />
-					<attribute id="KeepScale" type="bool" value="True" />
-					<attribute id="MainHand" type="bool" value="False" />
-					<attribute id="MaxDistance" type="float" value="0" />
-					<attribute id="MinDistance" type="float" value="0" />
-					<attribute id="OffHand" type="bool" value="False" />
-					<attribute id="Pivot" type="FixedString" value="Target" />
-					<attribute id="UUID" type="guid" value="04874b1d-acbb-4666-8772-fd26983323a7" />
-					<attribute id="UseDistance" type="bool" value="False" />
-					<attribute id="UseOrientDirection" type="bool" value="False" />
-					<attribute id="UseScaleOverride" type="bool" value="False" />
-				</node> -->
 			</children>
 		</node>
 	</region>

@@ -6,7 +6,7 @@
 			<attribute id="UUID" type="guid" value="eee49fcb-6333-46f1-8937-2979d3f5e440" />
 			<attribute id="Name" type="LSString" value="P_Cast_Nebulous_Form_Void" />
 			<children>
-				<node id="EffectInfo">
+				<!-- <node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="7a9c0186-f17a-4af8-a865-a7240c27b12d" />
 					<attribute id="EffectResourceGuid" type="guid" value="c6520297-53bf-3cd6-9fbb-51addeceef7e" />
 					<attribute id="DetachSource" type="bool" value="False" />
@@ -57,7 +57,7 @@
 							<attribute id="Value" type="LSString" value="Dummy_R_HandFX" />
 						</node>
 					</children>
-				</node>
+				</node> -->
                 <node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="c26447f0-44fd-45c5-9de3-1346b1a340ff" />
 					<attribute id="EffectResourceGuid" type="guid" value="ec23dfeb-660f-4767-86ee-01042aa0d735" />
