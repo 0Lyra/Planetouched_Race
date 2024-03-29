@@ -11,7 +11,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Projectile_Soul_Star_Void;Shout_RadianceOfTheDawnTest"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Soul_Star_Void;Shout_RadianceOfTheDawnTest;Zone_Starfall"/>
                     <attribute id="UUID" type="guid" value="cea223db-5a6e-4f6b-b08b-98ca9ee426b6"/>
                 </node>
                 <node id="SpellList">
