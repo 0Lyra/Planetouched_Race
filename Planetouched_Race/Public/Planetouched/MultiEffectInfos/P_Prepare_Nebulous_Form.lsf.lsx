@@ -110,7 +110,7 @@
 				</node>
 				<node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="e4b18a1d-aadf-4bf9-bc56-31c3accce18c" />
-					<attribute id="EffectResourceGuid" type="guid" value="66e2e093-84be-424a-926f-99b593334494" />
+					<attribute id="EffectResourceGuid" type="guid" value="82f03b55-c77d-46d2-8722-9e755999066e" />
 					<attribute id="DetachSource" type="bool" value="False" />
 					<attribute id="DetachTarget" type="bool" value="False" />
 					<attribute id="KeepRotation" type="bool" value="False" />
@@ -139,7 +139,7 @@
 				</node>
 				<node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="e7466649-1eb3-4923-8720-9643d0fe3eaa" />
-					<attribute id="EffectResourceGuid" type="guid" value="9e33d535-7be9-48c2-8f10-7dfe39e5ac45" />
+					<attribute id="EffectResourceGuid" type="guid" value="33d09939-cac4-46a0-be79-c23d54a3f066" />
 					<attribute id="DetachSource" type="bool" value="False" />
 					<attribute id="DetachTarget" type="bool" value="False" />
 					<attribute id="KeepRotation" type="bool" value="False" />

@@ -82,6 +82,6 @@ data "SpellAnimation" "2f0d97b9-4a1f-4bf3-a3c2-32efb563d601,,;,,;70ddfd63-fc3f-4
 data "VerbalIntent" "Healing"
 data "HitAnimationType" "MagicalNonDamage"
 data "PrepareEffect" "c8ae0269-7111-48ea-90ba-af9f9104c30b"
-data "CastEffect" "11b177e1-ccd8-495d-ad9a-5547a138f540"
-data "TargetEffect" "78ab57f2-edce-4697-8be4-7bf7c2e76f92"
+data "CastEffect" "1d256602-5f39-457f-b4e4-6503e54290e1"
+data "TargetEffect" "f68bd589-879d-4fac-95fe-03668b73b63e"
 data "DamageType" "Radiant"

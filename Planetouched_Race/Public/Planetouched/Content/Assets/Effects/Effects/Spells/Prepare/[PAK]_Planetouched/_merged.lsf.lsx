@@ -452,6 +452,7 @@
 						</node>
 					</children>
 				</node>
+				<!-- starfall -->
 				<node id="Resource">
 					<attribute id="BoundsMax" type="fvec3" value="6 6 1" />
 					<attribute id="BoundsMin" type="fvec3" value="-6 -6 -11" />
@@ -646,6 +647,348 @@
 								</node>
 								<node id="DependentResource">
 									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- hit starfall -->
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 5 2.5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -5 -7.5" />
+					<attribute id="Center" type="fvec3" value="0 0 -2.5" />
+					<attribute id="CullingDistance" type="float" value="30" />
+					<attribute id="Duration" type="float" value="5" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Beams_Starfall_Impact_01" />
+					<attribute id="ID" type="FixedString" value="9a9beb90-a6bf-409c-bed4-fd03d2676d13" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Beams_Starfall_Impact_01" />
+					<attribute id="Radius" type="float" value="5" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Beam/P_VFX_Beams_Starfall_Impact_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="783ce98e-8afb-54ac-6c6e-4c985d5f011b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1821bf0a-2a37-3254-6ff8-65edcba14b1d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4b32aed8-01c8-5ab2-adcc-2b5fad7712cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a885e5dd-785f-98e5-be4e-95f1ebdcf6c3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c851631a-669c-fb82-9138-93833bdb62f9" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7d667c67-7e15-d75a-773b-1fffe4010d55" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a8a8b331-3f32-649e-e5eb-39f6a9b1e36d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f812d39c-7d2b-e112-931a-9265f910dbc0" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="69f71c84-db38-5203-df2e-c62dcaba9909" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97ae239c-85b6-cc5a-cd23-7e0753c1ed3d" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- prepare feast of starlight -->
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 6 5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -4 -5" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.51" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Prepare_CastFX_Void" />
+					<attribute id="ID" type="FixedString" value="dd405265-20d0-4b3a-84f5-7e44d2bfb02f" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Prepare_CastFX_Void" />
+					<attribute id="Radius" type="float" value="5" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Prepare/FeastOfStarlight/P_VFX_Spells_Prepare_CastFX_Void.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="44192e18-75cf-4d16-1747-81ed534b8247" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 6 5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -4 -5" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="30" />
+					<attribute id="Duration" type="float" value="1.51" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Prepare_CastFX_Textkey_01" />
+					<attribute id="ID" type="FixedString" value="bb427857-48b1-4c25-98a6-06008ea83639" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Prepare_CastFX_Textkey_01" />
+					<attribute id="Radius" type="float" value="5" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Prepare/FeastOfStarlight/P_VFX_Spells_Prepare_CastFX_Textkey_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="44192e18-75cf-4d16-1747-81ed534b8247" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1d821a57-680d-62ae-b0a1-830fa99b0492" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="aaad2d87-1c7a-cc7c-e1a8-f6fa77bf640a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0fb917cc-128d-3eaa-0927-4c3a42f0101a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3baa4db5-49da-1eda-78d9-410798f2a043" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1cfb45ef-83d2-41b2-4162-7f99b22a39ac" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b7bbdf95-5516-e0ae-bdaf-a1c08a3fc8a6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="91624a31-b0f7-4e11-afc5-8bddeae1f92b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="18b4221d-df16-497f-b1ce-f285d3e05a71" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f6853a7d-2208-4d9d-ad16-680609fe7c98" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="002cd1a9-1f54-43d3-95f7-131627f3fde6" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="10 10 10" />
+					<attribute id="BoundsMin" type="fvec3" value="-10 -10 -10" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.501067" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_FeastOfStarlight_Root_Textkey_01" />
+					<attribute id="ID" type="FixedString" value="9ebb218b-00c3-4f38-9598-c592af79805a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_FeastOfStarlight_Root_Textkey_01" />
+					<attribute id="Radius" type="float" value="10" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_FeastOfStarlight_Root_Textkey_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="44192e18-75cf-4d16-1747-81ed534b8247" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1d821a57-680d-62ae-b0a1-830fa99b0492" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="aaad2d87-1c7a-cc7c-e1a8-f6fa77bf640a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0fb917cc-128d-3eaa-0927-4c3a42f0101a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3baa4db5-49da-1eda-78d9-410798f2a043" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1cfb45ef-83d2-41b2-4162-7f99b22a39ac" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b7bbdf95-5516-e0ae-bdaf-a1c08a3fc8a6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="91624a31-b0f7-4e11-afc5-8bddeae1f92b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="18b4221d-df16-497f-b1ce-f285d3e05a71" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f6853a7d-2208-4d9d-ad16-680609fe7c98" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="002cd1a9-1f54-43d3-95f7-131627f3fde6" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_FeastOfStarlight_CastFX_01" />
+					<attribute id="ID" type="FixedString" value="6883ce3c-8503-4028-aadd-e54632092c5d" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_FeastOfStarlight_CastFX_01" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_FeastOfStarlight_CastFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c857d19b-25be-a746-1134-1fcf2107ac38" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9acfb87b-b0b3-50a7-7408-414d4246d2b4" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7f529093-83ec-ea78-2d7d-71bb5fa5d73c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f2c40353-176b-4b05-91c8-25a68e517cbf" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 4 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -2 -3" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.5" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_FeastOfStarlight_Impact_HeadFX_Textkey_01" />
+					<attribute id="ID" type="FixedString" value="f570c573-9d17-43e8-9c8a-b0dc614711ad" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_FeastOfStarlight_Impact_HeadFX_Textkey_01" />
+					<attribute id="Radius" type="float" value="3" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_FeastOfStarlight_Impact_HeadFX_Textkey_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725656" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e861c0c8-a4f4-b18f-0dcb-34f1fcaa371b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="ab785ea6-2a63-8aed-9247-fa3fb7847be4" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4e9073d3-c903-9db0-76d1-169aaf33b43f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 4 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -2 -3" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.5" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_FeastOfStarlight_Impact_RootFX_Textkey_01" />
+					<attribute id="ID" type="FixedString" value="12649eb6-8d03-441e-8edd-81210fd80f70" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_FeastOfStarlight_Impact_RootFX_Textkey_01" />
+					<attribute id="Radius" type="float" value="3" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_FeastOfStarlight_Impact_RootFX_Textkey_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a874102c-cc6e-67b1-b5a2-3ccde86e0251" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="91bcdda5-afef-22b0-894c-1c2ead59f2d5" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e7b55705-01cd-edbd-7a8d-25321c31904d" />
 								</node>
 							</children>
 						</node>
