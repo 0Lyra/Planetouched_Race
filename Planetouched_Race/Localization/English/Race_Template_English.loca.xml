@@ -55,7 +55,9 @@
 	<content contentuid="h9a51ab74g645dg4771g9dc5g11c312a43054" version="3">Planar Legacy</content>
 	<content contentuid="hdcf1ee76g0919g4347g9b49g85aa0da30ed4" version="3">You are resistant to Radiant damage. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed.</content>
 	<content contentuid="h15157a76gb460g4659ga141g01c0270c87b9" version="3">You are resistant to Necrotic damage. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed.</content>
-	<content contentuid="h12645cecg4c2bg4b7dg928egca9d08d97a6e" version="3">Unfaltering</content>
+	<content contentuid="h12645cecg4c2bg4b7dg928egca9d08d97a6e" version="1">Unfaltering</content>
+	<content contentuid="hbe04e7f7gf52dg4478g9754g730d6c1c0740" version="1">When you reach 0 hit points, instead of being &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt;, you gain 1d10 hit points.</content>
+	<content contentuid="hed5e7478g04fdg44d1g896bgb05265cc4894" version="1">When you reach 0 hit points, instead of being &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt;, you gain 1d10 hit points.</content>
 	<!--SPELLS-->
     <content contentuid="hc185d2fag00ffg4ddegad89gf3a880f6f1b0" version="1">Planetouched: Nebulous Form</content>
     <content contentuid="h956ac6b4gd60eg4cfeg9df1gd0f811338a1d" version="4">Embracing your astral ancestry you transform your body to become &lt;LSTag Type="Passive" Tooltip="Nebulous_Form_Void"&gt;non-corporeal&lt;/LSTag&gt; and the Negative energy stored within you retaliates upon melee attack.</content>
@@ -76,6 +78,6 @@
 	<content contentuid="h7a101cbag6a92g464ag8155g481112591dd9" version="1">You use the Negative energy stored within you to form a beam of light that deals Cold damage to all standing in the beam. Opponents hit by this energy have a chance of becoming Starstruck.</content>
 	<content contentuid="hac526d5dg1fc7g42a2g9da8gc59258a0d4f6" version="1">Starstruck</content>
 	<content contentuid="h3d23f19eg442dg4204g8423g15c9cbc2d04a" version="1">Theurgy</content>
-	<content contentuid="h8fd1e55fg3ddfg4ba0g93d9g474c71c2edd9" version="1">You tear at the veil separating Material Plane from other planes of existence, creating a 3m area in which creatures must succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On success the surge of Positive Energy deals Radiant damage. You can move the area up to 3 times as a bonus action.</content>
+	<content contentuid="h8fd1e55fg3ddfg4ba0g93d9g474c71c2edd9" version="1">Open a tear in reality itself, letting Positive energy flow into a 3m area in which creatures must succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On success the surge of Positive Energy deals Radiant damage. You can move the area as a bonus action until you lose Concentration.</content>
 	<content contentuid="hac097258g9a7fg4ef4g8f5bgb58191dedb3f" version="1">Move Theurgy</content>
 </contentList>
