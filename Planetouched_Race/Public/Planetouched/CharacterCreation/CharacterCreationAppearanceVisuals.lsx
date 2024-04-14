@@ -36,6 +36,16 @@
                     <attribute id="UUID" type="guid" value="521f2ce1-ba08-4316-a1d4-a88029aa4e7b"/>
                     <attribute id="VisualResource" type="guid" value="7aaea4d1-cb82-46d3-ba40-b9b3ab3dc7de"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfb7b5e6eg193dg436ag877fg58b03d7e7013" version="1"/>
+					<attribute id="IconIdOverride" type="FixedString" value="0_Horns_UUIDOFICONHERE"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="c8aa530b-5013-4f30-95fa-2894a9390258"/>
+                    <attribute id="VisualResource" type="guid" value="a98081bf-4214-4907-b74c-6e2f030614b3"/>
+                </node>
                 <!--Masc Smol-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
@@ -66,6 +76,16 @@
                     <attribute id="SlotName" type="FixedString" value="Horns"/>
                     <attribute id="UUID" type="guid" value="d4392382-64f8-435f-9332-4d4daa86aa4e"/>
                     <attribute id="VisualResource" type="guid" value="8fc7c619-0f2f-4eb2-bcb1-3363f1e02fe2"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfb7b5e6eg193dg436ag877fg58b03d7e7013" version="1"/>
+					<attribute id="IconIdOverride" type="FixedString" value="0_Horns_UUIDOFICONHERE"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="45e8fc21-a350-477e-b555-9d6a8702cb2d"/>
+                    <attribute id="VisualResource" type="guid" value="f6456942-916f-4ceb-b83a-a30fb83bc114"/>
                 </node>
 
                 <!--Female Smol-->
