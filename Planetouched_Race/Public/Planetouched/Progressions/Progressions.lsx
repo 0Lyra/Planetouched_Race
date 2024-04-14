@@ -6,9 +6,9 @@
             <children>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                    <attribute id="Name" type="LSString" value="Planetouched_Passives" /> just an internal name
-                    <attribute id="Boosts" type="LSString" value="" /> 
-                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Darkvision;Planetouched_Passive" /> passives from stats folder here
+                    <attribute id="Name" type="LSString" value="Planetouched" /> just an internal name
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" /> 
+                    <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                     <attribute id="Selectors" type="LSString" value="" />see below for explanation
                     <!--SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared)
                     This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
@@ -19,28 +19,28 @@
                     SelectPassives(3933da0d-897a-4fd4-b37c-408c1afde2d3,2,RacialFeats)
                     This links to the PassiveLists.lsx, the 2 means the amount of options you need to pick.-->
                     <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="TableUUID" type="guid" value="281d5f0f-d4d6-4a67-b5c0-8fcb74465031" /> Always use this one for races.lsx, says this progression node is for Main Race
-                    <attribute id="UUID" type="guid" value="bd214925-dc1b-457e-a030-4c6817a47945" />  this one must be unique
+                    <attribute id="TableUUID" type="guid" value="efcb9943-d900-4580-a2c1-f2924881e982" /> Always use this one for races.lsx, says this progression node is for Main Race
+                    <attribute id="UUID" type="guid" value="436dbb8b-abb0-480b-b8f7-4573b43b02ff" />  this one must be unique
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Planetouched_Void" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature,1,0)" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Darkvision_Gloam;Planetouched_Passive_PlanarLegacy_Gloam;Unfaltering_Gloam" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(cea223db-5a6e-4f6b-b08b-98ca9ee426b6);SelectSpells(7eaf55d9-c193-45fd-b452-3da0068b0971,1,0,PlanetouchedOrigin,);SelectSkills(0219e1a0-9f56-4313-9ead-9638507ec19c,2)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" /> Always use this one for races.lsx, says this progression node is for Sub Race
-                    <attribute id="UUID" type="guid" value="6d7fa079-23fc-46f0-a2b0-2dd41e3eae8d" />  this one must be unique
+                    <attribute id="TableUUID" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                    <attribute id="UUID" type="guid" value="e2ac2d61-36e2-4e0d-b10f-ab2b89a37701" />  this one must be unique
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Planetouched_Comet" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(Planetouched_Racial_Feature,1,0)" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="Planetouched_Darkvision_Lumen;Planetouched_Passive_PlanarLegacy_Lumen;Unfaltering_Lumen" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(869890ec-7dad-40f6-b965-65845fd55327);SelectSpells(7eaf55d9-c193-45fd-b452-3da0068b0971,1,0,PlanetouchedOrigin,);SelectSkills(bbc03510-2150-4240-a539-82accda134e0,2)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
                     <attribute id="TableUUID" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" /> Always use this one for races.lsx, says this progression node is for Main Race
-                    <attribute id="UUID" type="guid" value="97ce76c0-ad7c-4e42-b977-9aafdc3447e9" />  this one must be unique
+                    <attribute id="UUID" type="guid" value="7a9f0945-3686-4ee9-93b5-5a6c46f154fe" />  this one must be unique
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3" />
@@ -49,7 +49,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(519d519d-7395-4010-a344-47496a0da01e,PlanetouchedSpell)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                    <attribute id="TableUUID" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4" /> Always use this one for races.lsx, says this progression node is for Sub Race
                     <attribute id="UUID" type="guid" value="dea838aa-9575-4895-9539-4eaeb33eadb5" />  this one must be unique
                 </node>
                 <node id="Progression">
@@ -69,7 +69,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(e3e23a21-fe99-4d55-a12d-30036b34987c)" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                    <attribute id="TableUUID" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4" /> Always use this one for races.lsx, says this progression node is for Sub Race
                     <attribute id="UUID" type="guid" value="381dc25e-03e7-4ae8-879e-b6ae90e4efe5" />  this one must be unique
                 </node>
                 <node id="Progression">

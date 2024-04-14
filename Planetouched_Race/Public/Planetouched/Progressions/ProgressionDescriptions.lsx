@@ -7,16 +7,30 @@
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h74cf54a8g0b1fg4d42g9180gfcdee2f54927" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hec5c30ccg8e6fg415ag8169g754571c14f2f" version="1" />
-                    <attribute id="ProgressionTableId" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c" />
+                    <attribute id="ProgressionTableId" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4" />
                     <attribute id="SelectorId" type="FixedString" value="PlanetouchedOrigin" />
                     <attribute id="UUID" type="guid" value="e480f4d2-83dc-40d7-a371-cc3d519a3bdd" />
                 </node>
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h7772a32eg1569g4ad2gba9fg9990ac5c0c70" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5c490ab7g7eabg44b3g97e9gce963478c79c" version="1"/>
-                    <attribute id="ProgressionTableId" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c"/>
+                    <attribute id="ProgressionTableId" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4"/>
                     <attribute id="SelectorId" type="FixedString" value="PlanetouchedSpell"/>
                     <attribute id="UUID" type="guid" value="366c9035-173e-4dc4-8989-dacd671d98c4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h74cf54a8g0b1fg4d42g9180gfcdee2f54927" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hec5c30ccg8e6fg415ag8169g754571c14f2f" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630" />
+                    <attribute id="SelectorId" type="FixedString" value="PlanetouchedOrigin" />
+                    <attribute id="UUID" type="guid" value="e480f4d2-83dc-40d7-a371-cc3d519a3bdd" />
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7772a32eg1569g4ad2gba9fg9990ac5c0c70" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5c490ab7g7eabg44b3g97e9gce963478c79c" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="bf88c3f5-7560-40ac-9cc2-a71eb4658630"/>
+                    <attribute id="SelectorId" type="FixedString" value="PlanetouchedSpell"/>
+                    <attribute id="UUID" type="guid" value="2df15700-1c10-4b95-8f00-d0f9a51a703d"/>
                 </node>
             </children>
         </node>

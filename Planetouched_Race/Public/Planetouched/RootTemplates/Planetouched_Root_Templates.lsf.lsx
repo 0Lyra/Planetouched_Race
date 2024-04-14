@@ -470,6 +470,33 @@
 										</node>
 									</children>
 								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Stelio_Coercion" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
 							</children>
 						</node>
 						<node id="SpeakerGroupList">
@@ -499,62 +526,6 @@
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-                <node id="GameObjects">
-					<attribute id="Acceleration" type="float" value="20" />
-					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
-					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
-					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="GroupID" type="uint32" value="0" />
-					<attribute id="HasGameplayValue" type="bool" value="False" />
-					<attribute id="ImpactFX" type="FixedString" value="VFX_Projectiles_Damage_StarBurst_Blue_Impact_01" />
-					<attribute id="ImpactSoundResourceID" type="FixedString" value="" />
-					<attribute id="InitialSpeed" type="float" value="30" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="a02b69b7-ba12-46c7-945f-67ae48711e1d" />
-					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_StarBurst_Blue_01" />
-					<attribute id="ParentTemplateId" type="FixedString" value="" />
-					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="" />
-					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
-					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
-					<attribute id="ShiftBMax_Bezier4" type="float" value="0.25" />
-					<attribute id="ShiftBMin_Bezier4" type="float" value="0.25" />
-					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_Damage_StarBurst_Blue_Projectile_01" />
-					<attribute id="Type" type="FixedString" value="projectile" />
-					<attribute id="VelocityMode" type="uint8" value="1" />
-					<attribute id="VisualTemplate" type="FixedString" value="" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209011" />
-					<children>
-						<node id="Bounds">
-							<children>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="0" />
-									<attribute id="Max" type="fvec3" value="0 0 0" />
-									<attribute id="Min" type="fvec3" value="0 0 0" />
-									<attribute id="Radius" type="float" value="0" />
-									<attribute id="Shape" type="uint8" value="0" />
-									<attribute id="Type" type="uint8" value="1" />
-								</node>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="0" />
-									<attribute id="Max" type="fvec3" value="0 0 0" />
-									<attribute id="Min" type="fvec3" value="0 0 0" />
-									<attribute id="Radius" type="float" value="0" />
-									<attribute id="Shape" type="uint8" value="0" />
-									<attribute id="Type" type="uint8" value="2" />
-								</node>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="0" />
-									<attribute id="Max" type="fvec3" value="0 0 0" />
-									<attribute id="Min" type="fvec3" value="0 0 0" />
-									<attribute id="Radius" type="float" value="0" />
-									<attribute id="Shape" type="uint8" value="0" />
-									<attribute id="Type" type="uint8" value="0" />
 								</node>
 							</children>
 						</node>

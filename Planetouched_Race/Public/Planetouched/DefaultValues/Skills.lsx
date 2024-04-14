@@ -7,7 +7,7 @@
                 <node id="DefaultValue">
                     <attribute id="Add" type="LSString" value="Athletics;Investigation;Stealth"/>
                     <attribute id="Level" type="int32" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c"/>
+                    <attribute id="TableUUID" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4"/>
                     <attribute id="UUID" type="guid" value="ae729198-7de3-45f6-8a15-4e76098b3e4e"/>
                 </node>
                 <node id="DefaultValue">

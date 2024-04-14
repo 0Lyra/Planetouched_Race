@@ -11,7 +11,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Projectile_Soul_Star_Void;Shout_RadianceOfTheDawnTest;Zone_Starfall"/>
+                    <attribute id="Spells" type="LSString" value="Zone_Starfall"/>
                     <attribute id="UUID" type="guid" value="cea223db-5a6e-4f6b-b08b-98ca9ee426b6"/>
                 </node>
                 <node id="SpellList">
@@ -21,12 +21,12 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Zone_Starfall"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FeastOfStarlight"/>
                     <attribute id="UUID" type="guid" value="e3e23a21-fe99-4d55-a12d-30036b34987c"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Target_PlanarStep;Shout_Nebulous_Form_Comet;Target_Theurgy"/>
+                    <attribute id="Spells" type="LSString" value="Target_PlanarStep"/>
                     <attribute id="UUID" type="guid" value="869890ec-7dad-40f6-b965-65845fd55327"/>
                 </node>
                 <node id="SpellList">

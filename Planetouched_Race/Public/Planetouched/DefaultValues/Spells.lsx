@@ -7,7 +7,7 @@
                 <node id="DefaultValue">
                     <attribute id="Add" type="LSString" value="Target_RangersCompanion_Raven_WHITE"/>
                     <attribute id="Level" type="int32" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="0c008835-37b7-46ae-871c-03fa037c4f2c"/>
+                    <attribute id="TableUUID" type="guid" value="7c2a5eff-0267-4aa4-a07e-2048464144e4"/>
                     <attribute id="UUID" type="guid" value="06fe75df-951a-42a8-b195-fd29e4301dad"/>
                 </node>
                 <node id="DefaultValue">

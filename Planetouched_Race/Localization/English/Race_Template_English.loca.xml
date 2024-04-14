@@ -16,6 +16,14 @@
 	<content contentuid="h708212d1ge46dg4e0cgaf62gdeebc2adf599" version="1">Dark Star 6</content>
 	<content contentuid="h05004ddbga704g4585g8e43g444e0384d6a7" version="1">Dark Star 7</content>
 	<content contentuid="h08b58124gcc82g444dgb140g397a7acef80f" version="1">Dark Star 8</content>
+	<content contentuid="hfe2ec186g3b61g489eg9f19gf051515fb21c" version="1">Fading Star 1</content>
+	<content contentuid="h76d61674gdf0dg4837g838egdefb0204c3b9" version="1">Fading Star 2</content>
+	<content contentuid="hd8407f84g2c1bg4ca0g8ddagace53d316b77" version="1">Fading Star 3</content>
+	<content contentuid="h02180b5fg7f2fg4132g918fg3491064f2dab" version="1">Fading Star 4</content>
+	<content contentuid="h5cd360beg7669g4ec4g8983ge043f4124b6a" version="1">Fading Star 5</content>
+	<content contentuid="h88a65520g64a5g4178g959bg4f13f20ccd94" version="1">Fading Star 6</content>
+	<content contentuid="hf80922cdg2ca5g48dcgbb81g4a49294f4300" version="1">Fading Star 7</content>
+	<content contentuid="hb33a1262g9d05g4d0egad76gd7c06ec67d2d" version="1">Fading Star 8</content>
 	<!--EYES CC-->
 	<content contentuid="h17da98c8g6a54g4407g9505g7fd148db801e" version="1">Primeval Current</content>
 	<content contentuid="h60c560b3g1d26g49bfg80e5ga0c6a3238fc0" version="1">Eternal Fog</content>
@@ -35,16 +43,19 @@
 	<content contentuid="h929e0b5bg41e5g4b46gaecegb4885526745f" version="1">Constellation</content>
     <content contentuid="hafcda5e9g6e9ag44cdgbc56gd32a39cc7569" version="1">Crescent</content>
 	<content contentuid="hfb7b5e6eg193dg436ag877fg58b03d7e7013" version="1">Evening Star</content>
+	<content contentuid="h6880421bg89deg44ecgaa01g9b0bda7dc7f9" version="1">Alchemy of Stars</content>
 	<!--PASSIVES-->
     <content contentuid="h1caf0f35g1084g4898g8488gc422ccbecc6f" version="1">Planar Charge</content>
-	<content contentuid="hf0968a03gec69g4623gbcffg3e0949d1bb88" version="1">Darkvision</content>
+	<content contentuid="hf0968a03gec69g4623gbcffg3e0949d1bb88" version="2">Planetouched Darkvision</content>
 	<content contentuid="ha432083dgfaa0g476ag97acgbe83445ac4e5" version="1">You can see in ordinary darkness up to a range of [1].</content>
-	<content contentuid="h5988f0aegc64dg48efgaea5gab4d78536c99" version="1">Planetouched Mind</content>
-	<content contentuid="hff7c424bgd6acg4e42gaec6g162c83ae91be" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
     <content contentuid="h74cf54a8g0b1fg4d42g9180gfcdee2f54927" version="1">You may change your cantrip by selecting another one from the spell list below. This cantrip doesn't use &lt;LSTag Tooltip="SpellSlot"&gt;spell slots&lt;/LSTag&gt; and can be cast at will.</content>
 	<content contentuid="hec5c30ccg8e6fg415ag8169g754571c14f2f" version="1">Planetouched Cantrips</content>
 	<content contentuid="h7772a32eg1569g4ad2gba9fg9990ac5c0c70" version="1">Your Planar ancestry gives you access to certain spells. These are &lt;LSTag Tooltip="AlwaysPrepared"&gt;Always Prepared&lt;/LSTag&gt;.</content>
 	<content contentuid="h5c490ab7g7eabg44b3g97e9gce963478c79c" version="1">Planetouched Spells</content>
+	<content contentuid="h9a51ab74g645dg4771g9dc5g11c312a43054" version="3">Planar Legacy</content>
+	<content contentuid="hdcf1ee76g0919g4347g9b49g85aa0da30ed4" version="3">You are resistant to Radiant damage. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed.</content>
+	<content contentuid="h15157a76gb460g4659ga141g01c0270c87b9" version="3">You are resistant to Necrotic damage. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed.</content>
+	<content contentuid="h12645cecg4c2bg4b7dg928egca9d08d97a6e" version="3">Unfaltering</content>
 	<!--SPELLS-->
     <content contentuid="hc185d2fag00ffg4ddegad89gf3a880f6f1b0" version="1">Planetouched: Nebulous Form</content>
     <content contentuid="h956ac6b4gd60eg4cfeg9df1gd0f811338a1d" version="4">Embracing your astral ancestry you transform your body to become &lt;LSTag Type="Passive" Tooltip="Nebulous_Form_Void"&gt;non-corporeal&lt;/LSTag&gt; and the Negative energy stored within you retaliates upon melee attack.</content>
@@ -57,8 +68,14 @@
     <content contentuid="h6a4671f7g7ee7g4c07ga682g48063b60abc4" version="1">A strange white raven that glimmers with unnatural magics. He's latched onto you and not even death can separate you two. His witty quips border on malicous, but you've grown fond of him nonetheless. His origin is a mystery to you.</content>
     <content contentuid="h9ab5ef07g43d4g4525g9a92g53eb521e41cf" version="1">Soul Sliver</content>
     <content contentuid="h5089281ag3e10g4ca6gbbf9gb97b916d507f" version="1">You call on the help of a star from deep within the Astral Sea to smite your enemy with a beam of energy.</content>
-    <content contentuid="hb05a8136g0629g469cgb821g39898c56fde3" version="1">Rain of Stars</content>
-    <content contentuid="hc6f4c858g1c51g455fgad16g3ec527c2722b" version="1">Drawing ever nearer to the goal of your ancestors, you channel the power of celestial bodies, ushering forth bolts of purified energy.</content>
+    <content contentuid="hb05a8136g0629g469cgb821g39898c56fde3" version="1">Feast of Starlight</content>
+    <content contentuid="hc6f4c858g1c51g455fgad16g3ec527c2722b" version="1">Harness the power of celestial bodies to dispel any magical darkness and deal Radiant damage to hostile creatures.</content>
 	<content contentuid="h1d3fc92bgb3f4g4019ga998g7a840d41c346" version="1">Planar Step</content>
     <content contentuid="h3723d9a8gcfaag4399ga31dgbac5f852afdd" version="1">Surrounded briefly by starlight, you teleport up to [1] to an unoccupied space that you can see.</content>
+	<content contentuid="ha0de0d1bge915g4af0gbed0gce0590f8004e" version="1">Starfall</content>
+	<content contentuid="h7a101cbag6a92g464ag8155g481112591dd9" version="1">You use the Negative energy stored within you to form a beam of light that deals Cold damage to all standing in the beam. Opponents hit by this energy have a chance of becoming Starstruck.</content>
+	<content contentuid="hac526d5dg1fc7g42a2g9da8gc59258a0d4f6" version="1">Starstruck</content>
+	<content contentuid="h3d23f19eg442dg4204g8423g15c9cbc2d04a" version="1">Theurgy</content>
+	<content contentuid="h8fd1e55fg3ddfg4ba0g93d9g474c71c2edd9" version="1">You tear at the veil separating Material Plane from other planes of existence, creating a 3m area in which creatures must succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On success the surge of Positive Energy deals Radiant damage. You can move the area up to 3 times as a bonus action.</content>
+	<content contentuid="hac097258g9a7fg4ef4g8f5bgb58191dedb3f" version="1">Move Theurgy</content>
 </contentList>

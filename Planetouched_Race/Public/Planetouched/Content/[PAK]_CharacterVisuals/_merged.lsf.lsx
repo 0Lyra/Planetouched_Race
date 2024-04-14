@@ -227,6 +227,11 @@
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="fea62f6c-58ec-4131-9485-e0c863dc0d53" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
@@ -338,6 +343,11 @@
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="8e3dcb26-a274-49a5-bf70-6a98b74e7373" />
 						</node>
 					</children>
 				</node>
@@ -615,6 +625,11 @@
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="a98081bf-4214-4907-b74c-6e2f030614b3" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
@@ -721,6 +736,11 @@
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="f6456942-916f-4ceb-b83a-a30fb83bc114" />
 						</node>
 					</children>
 				</node>

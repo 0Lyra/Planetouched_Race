@@ -8,57 +8,113 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="he28555d7g78d7g4d0bga071g0778fa031a83" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="af7b8df9-cf47-4c8b-b602-1360dec403e3"/> <!--This needs to match the ID in the _merged.lsf entry in Public\Shared\Content\Assets\Characters\Character Editor Presets\Skin Color Presets -->
                     <attribute id="Name" type="FixedString" value="DarkStar1"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB5ADDF"/>
                     <attribute id="UUID" type="guid" value="80ab2210-6b7c-4bec-ad7a-2d3fbe66031c"/> <!-- needs to be unique -->
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h0072b684gc6bcg42cdgbc23g962297823ee2" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="9d11d564-0e8e-4d88-aa4a-6c06100d5f7e"/>
                     <attribute id="Name" type="FixedString" value="DarkStar2"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA198D2"/>
                     <attribute id="UUID" type="guid" value="6cb72c64-4ca6-4db5-95c7-22f3f1d078d8"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hef462eb3g6eceg48ebg826egb1074d43c15c" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="3ecd8d4f-34c6-466f-b3c5-2688a7c310de"/>
                     <attribute id="Name" type="FixedString" value="DarkStar3"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8E83C6"/>
                     <attribute id="UUID" type="guid" value="eed58a2e-a53c-41f0-9018-3d3c2cd0c323"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="hbb568c90g3466g4dd7g94bag39154663f6bb" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="ae0bdc2b-028b-4f43-b1e0-255b4e1803dd"/>
                     <attribute id="Name" type="FixedString" value="DarkStar4"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FF7A6EB9"/>
                     <attribute id="UUID" type="guid" value="c9d43bf6-f089-4633-a7e1-172407aceb28"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h95100dc6g1094g492aga966ge776fdd24c3b" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="29538007-4ece-45cc-93ef-4460cd801ec4"/>
                     <attribute id="Name" type="FixedString" value="DarkStar5"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6759AD"/>
                     <attribute id="UUID" type="guid" value="3f0cad20-f057-4cfb-be34-c8fa791b3162"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h708212d1ge46dg4e0cgaf62gdeebc2adf599" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="81d31b2f-0d98-4781-a5ac-e57af1090706"/>
                     <attribute id="Name" type="FixedString" value="DarkStar6"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5344A0"/>
                     <attribute id="UUID" type="guid" value="6c730655-4227-4e1a-b95d-9c61f53452a1"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h05004ddbga704g4585g8e43g444e0384d6a7" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="b04f34e5-95f7-4563-b155-5e8017ddc990"/>
                     <attribute id="Name" type="FixedString" value="DarkStar7"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FF402F94"/>
                     <attribute id="UUID" type="guid" value="4091a885-f905-451c-9d4c-9237a00afcb7"/>
                 </node>
                 <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h08b58124gcc82g444dgb140g397a7acef80f" version="1"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="6c43ab05-8250-4d11-878b-8dbfdc26ff1e"/>
                     <attribute id="Name" type="FixedString" value="DarkStar8"/>
-                    <attribute id="UIColor" type="LSString" value="#FF413097"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2C1A87"/>
                     <attribute id="UUID" type="guid" value="ae864342-b091-4930-8028-d9cd005117c9"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfe2ec186g3b61g489eg9f19gf051515fb21c" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3e7b5b7f-ceb6-48d2-8770-9ba011fc8cb1"/> <!--This needs to match the ID in the _merged.lsf entry in Public\Shared\Content\Assets\Characters\Character Editor Presets\Skin Color Presets -->
+                    <attribute id="Name" type="FixedString" value="FadingStar1"/>
+                    <attribute id="UIColor" type="LSString" value="#FFDFC18C"/>
+                    <attribute id="UUID" type="guid" value="09fc3fe1-12f5-4b5e-93e4-066c7d77f213"/> <!-- needs to be unique -->
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h76d61674gdf0dg4837g838egdefb0204c3b9" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8db4d863-c8ce-4d92-b714-7d8d67900740"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar2"/>
+                    <attribute id="UIColor" type="LSString" value="#FFCCB17F"/>
+                    <attribute id="UUID" type="guid" value="e5134f6b-e51e-4565-b39e-74e66a3e8a88"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd8407f84g2c1bg4ca0g8ddagace53d316b77" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="fe2dffc9-e856-4c8a-9dfa-1f53ad521701"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar3"/>
+                    <attribute id="UIColor" type="LSString" value="#FFB9A071"/>
+                    <attribute id="UUID" type="guid" value="bb80beb3-14f6-4ede-a2c8-527b0e038d94"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h02180b5fg7f2fg4132g918fg3491064f2dab" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="aa2a0f26-91aa-4c47-b96c-d0d90d62920d"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar4"/>
+                    <attribute id="UIColor" type="LSString" value="#FFA69064"/>
+                    <attribute id="UUID" type="guid" value="9e84db02-05ee-4679-87d5-5496275a32c2"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5cd360beg7669g4ec4g8983ge043f4124b6a" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="28699e23-6a1e-4ac1-8c2e-8a25d99dfb24"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar5"/>
+                    <attribute id="UIColor" type="LSString" value="#FF948056"/>
+                    <attribute id="UUID" type="guid" value="7840211f-964e-4318-b7a5-a634b565cd90"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h88a65520g64a5g4178g959bg4f13f20ccd94" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f2d59cb4-5396-4a4e-b9b7-b1f833e82f63"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar6"/>
+                    <attribute id="UIColor" type="LSString" value="#FF817049"/>
+                    <attribute id="UUID" type="guid" value="f89d6c62-a051-427d-bb8d-f5a7c1aedb26"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf80922cdg2ca5g48dcgbb81g4a49294f4300" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="1818ffa2-11fa-445a-b170-5489b1fcc8f1"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar7"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6E5F3B"/>
+                    <attribute id="UUID" type="guid" value="62f48eb6-24ca-4c90-802d-8edf18e94ff5"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb33a1262g9d05g4d0egad76gd7c06ec67d2d" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="7ade583e-0593-46d7-a7d7-bfc7bbf8ea2d"/>
+                    <attribute id="Name" type="FixedString" value="FadingStar8"/>
+                    <attribute id="UIColor" type="LSString" value="#FF5B4F2E"/>
+                    <attribute id="UUID" type="guid" value="52c2eeb0-c806-4d5d-9e63-d7cd6d60cde5"/>
                 </node>
             </children>
         </node>

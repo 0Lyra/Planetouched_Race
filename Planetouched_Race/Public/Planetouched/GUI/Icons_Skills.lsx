@@ -23,112 +23,112 @@
         <node id="root">
             <children>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Evocation_SoulSliver"/> 1
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Darkvision_Gloam"/> 1
                     <attribute id="U1" type="float" value="0.0"/>
                     <attribute id="U2" type="float" value="0.03125"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Evocation_SoulSliver_Status"/> 2
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Darkvision_Lumen"/> 2
                     <attribute id="U1" type="float" value="0.03125"/>
                     <attribute id="U2" type="float" value="0.0625"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Abjuration_NebulousForm"/> 3
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_PlanarLegacy_Gloam"/> 3
                     <attribute id="U1" type="float" value="0.0625"/>
                     <attribute id="U2" type="float" value="0.09375"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Abjuration_NebulousForm_Status"/> 4 
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_PlanarLegacy_Lumen"/> 4 
                     <attribute id="U1" type="float" value="0.09375"/>
                     <attribute id="U2" type="float" value="0.125"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Abjuration_NebulousForm_Comet"/> 5
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Unfaltering_Gloam"/> 5
                     <attribute id="U1" type="float" value="0.125"/>
                     <attribute id="U2" type="float" value="0.15625"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Evocation_RainOfStars"/> 6
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Unfaltering_Lumen"/> 6
                     <attribute id="U1" type="float" value="0.15625"/>
                     <attribute id="U2" type="float" value="0.1875"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>					
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_Spell_Conjuration_PlanarStep"/> 7
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Stelio"/> 7
                     <attribute id="U1" type="float" value="0.1875"/>
                     <attribute id="U2" type="float" value="0.21875"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 8
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_PlanarStep"/> 8
                     <attribute id="U1" type="float" value="0.21875"/>
                     <attribute id="U2" type="float" value="0.25"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 9
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_NebulousForm_Gloam"/> 9
                     <attribute id="U1" type="float" value="0.25"/>
                     <attribute id="U2" type="float" value="0.28125"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 10
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_NebulousForm_Lumen"/> 10
                     <attribute id="U1" type="float" value="0.28125"/>
                     <attribute id="U2" type="float" value="0.3125"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 11
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Theurgy"/> 11
                     <attribute id="U1" type="float" value="0.3125"/>
                     <attribute id="U2" type="float" value="0.34375"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 12
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Theurgy_Status"/> 12
                     <attribute id="U1" type="float" value="0.34375"/>
                     <attribute id="U2" type="float" value="0.375"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 13
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_RadiantTouch"/> 13
                     <attribute id="U1" type="float" value="0.375"/>
                     <attribute id="U2" type="float" value="0.40625"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 14
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_FeastOfStarlight"/> 14
                     <attribute id="U1" type="float" value="0.40625"/>
                     <attribute id="U2" type="float" value="0.4375"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 15
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Starfall"/> 15
                     <attribute id="U1" type="float" value="0.4375"/>
                     <attribute id="U2" type="float" value="0.46875"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>	
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 16
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Starfall_Status"/> 16
                     <attribute id="U1" type="float" value="0.46875"/>
                     <attribute id="U2" type="float" value="0.5"/>
                     <attribute id="V1" type="float" value="0.0"/>
