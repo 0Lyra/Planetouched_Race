@@ -200,6 +200,11 @@
 									<attribute id="MapKey" type="FixedString" value="ELF_Petunia.ELF_Petunia_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
+								<!-- MANTIS HEADS -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
 							</children>
 						</node>
 						<node id="Slots">
@@ -596,6 +601,11 @@
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_Petunia.ELF_Petunia_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+								<!-- MANTIS HEADS -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
 							</children>

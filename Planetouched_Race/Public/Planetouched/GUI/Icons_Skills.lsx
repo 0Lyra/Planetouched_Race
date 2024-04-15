@@ -135,14 +135,14 @@
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 17
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Stelio_Passive"/> 17
                     <attribute id="U1" type="float" value="0.5"/>
                     <attribute id="U2" type="float" value="0.53125"/>
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.03125"/>
                 </node>				
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Planetouched_"/> 18
+                    <attribute id="MapKey" type="FixedString" value="LYRA_Planetouched_Theurgy_Move"/> 18
                     <attribute id="U1" type="float" value="0.53125"/>
                     <attribute id="U2" type="float" value="0.5625"/>
                     <attribute id="V1" type="float" value="0.0"/>
