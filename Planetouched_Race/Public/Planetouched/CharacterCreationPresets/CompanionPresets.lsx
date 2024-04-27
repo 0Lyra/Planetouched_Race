@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="47"/>
+    <region id="CompanionPresets">
+        <node id="root">
+            <children>
+                <!--Void-->
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+                    <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+                    <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/>
+                    <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/> base Custom Main race
+                    <attribute id="RootTemplate" type="guid" value="bd414c27-dadb-4584-9454-3cf590e33cc6"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681"/>  your subrace uuid
+                    <attribute id="UUID" type="guid" value="f837218f-f71d-4961-af1a-f5e8f21bc493"/> must be unique
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+                </node>
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/>
+                    <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+                    <attribute id="RootTemplate" type="guid" value="4fa76367-57d3-463b-a9d3-2a143574691a"/>
+					<attribute id="SubRaceUUID" type="guid" value="c0727a66-38cf-4f4c-833b-e4ff58b32681"/>
+                    <attribute id="UUID" type="guid" value="93240fb3-dd6e-4fc6-8cfc-1d3cc2c9b503"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+                </node>
+                <!--Comet-->
+                <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+                    <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+                    <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/>
+                    <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/> base Custom Main race
+                    <attribute id="RootTemplate" type="guid" value="d19cf9a5-fa60-4606-b067-831fc2fd3a66"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274"/>  your subrace uuid
+                    <attribute id="UUID" type="guid" value="6382e054-6eac-4dd9-b919-b3ee8525d256"/> must be unique
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+                </node>
+				<node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/>
+                    <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f"/>
+                    <attribute id="RootTemplate" type="guid" value="4e8665e8-c3e8-405f-9986-1b72feebc93e"/>
+					<attribute id="SubRaceUUID" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274"/>
+                    <attribute id="UUID" type="guid" value="eb859a1a-9ee6-40d3-b99e-2c9e1495a9bb"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

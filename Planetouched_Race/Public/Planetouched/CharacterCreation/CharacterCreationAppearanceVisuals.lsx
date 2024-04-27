@@ -786,11 +786,11 @@
                 <!-- HEADS -->
                 <!-- courierseis -->
                 <!-- Female -->
-                <node id="CharacterCreationAppearanceVisual">
+                <!-- <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="1" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="4" /> <!-- F_HEAD_A -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="4" />
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
@@ -801,19 +801,19 @@
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="1" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="4" /> <!-- F_HEAD_B -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="4" />
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
                     <attribute id="UUID" type="guid" value="17def6f6-c055-4fe3-84c2-303c92ee6014" />
                     <attribute id="VisualResource" type="guid" value="97619994-16aa-4dcd-aca7-998198d2b956" />
-                </node>
+                </node> -->
                 <!-- Male -->
-                <node id="CharacterCreationAppearanceVisual">
+                <!-- <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="0" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="4" /> <!-- M_HEAD_A -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h787789e5g6b5bg438dgadc9gb2f031a4e554" version="4" />
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
@@ -824,13 +824,13 @@
                     <attribute id="BodyShape" type="uint8" value="0" />
                     <attribute id="BodyType" type="uint8" value="0" />
                     <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="4" /> <!-- M_HEAD_B -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h85e1bff8g4b07g4545ga81cg7169be1c0084" version="4" />
 					<attribute id="IconIdOverride" type="FixedString" value=""/>
                     <attribute id="RaceUUID" type="guid" value="649fe942-9bd8-4046-9b9d-f79f3e85395f" />
                     <attribute id="SlotName" type="FixedString" value="Head" />
                     <attribute id="UUID" type="guid" value="cae93041-2854-4de0-91f0-2e85b8e7b359" />
                     <attribute id="VisualResource" type="guid" value="d75b0ed1-be60-433a-8da2-29df777589f0" />
-                </node>
+                </node> -->
             </children>
         </node>
     </region>
