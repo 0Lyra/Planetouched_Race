@@ -332,7 +332,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="74360a12-0d83-4d5c-8134-8ab5e7095187" />
+							<attribute id="VisualResource" type="FixedString" value="d4d205c7-7e86-b213-da48-b21f3f6f9554" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -757,7 +757,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="d75b0ed1-be60-433a-8da2-29df777589f0" />
+							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
