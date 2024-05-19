@@ -205,6 +205,19 @@
 									<attribute id="MapKey" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
+                                <!-- ZIP HEADS --> 
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_B.ZZELF_M_NKD_Head_B_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_D.ZZELF_M_NKD_Head_D_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_E.ZZELF_M_NKD_Head_E_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
 							</children>
 						</node>
 						<node id="Slots">
@@ -325,6 +338,19 @@
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_Trillium.ELF_Trillium_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <!-- ZIP HEADS --> 
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_B.ZZELF_M_NKD_Head_B_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_D.ZZELF_M_NKD_Head_D_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_E.ZZELF_M_NKD_Head_E_Mesh_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
 							</children>
@@ -636,6 +662,19 @@
 									<attribute id="MapKey" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
+                                <!-- ZIP HEADS --> 
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_B.ZZELF_M_NKD_Head_B_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_D.ZZELF_M_NKD_Head_D_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_E.ZZELF_M_NKD_Head_E_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
 							</children>
 						</node>
 						<node id="Slots">
@@ -750,6 +789,19 @@
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_Trillium.ELF_Trillium_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <!-- ZIP HEADS --> 
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_B.ZZELF_M_NKD_Head_B_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_D.ZZELF_M_NKD_Head_D_Mesh_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
+								</node>
+                                <node id="Object">
+									<attribute id="MapKey" type="FixedString" value="ZZELF_M_NKD_Head_E.ZZELF_M_NKD_Head_E_Mesh_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="9ac72db3-bd7e-4341-844e-8c947cb8027b" />
 								</node>
 							</children>
