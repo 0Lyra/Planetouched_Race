@@ -3023,6 +3023,7 @@
 								</node>
 							</children>
 						</node>
+
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.1" />
 							<attribute id="ID" type="guid" value="8f39ce46-1117-48d1-878f-9121c627d26c" />
@@ -5131,7 +5132,7 @@
 								</node>
 							</children>
 						</node>
-						<node id="EffectComponent">
+						<!-- <node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.063651" />
 							<attribute id="ID" type="guid" value="7edffffa-b06a-4d73-bc43-6d82e510f435" />
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
@@ -7419,8 +7420,8 @@
 									</children>
 								</node>
 							</children>
-						</node>
-						<node id="EffectComponent">
+						</node> -->
+						<!-- <node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.051368" />
 							<attribute id="ID" type="guid" value="3f98f404-223f-417a-834a-6a9b759570c4" />
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
@@ -9439,8 +9440,8 @@
 									</children>
 								</node>
 							</children>
-						</node>
-						<node id="EffectComponent">
+						</node> -->
+						<!-- <node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.254806" />
 							<attribute id="ID" type="guid" value="6d681d5a-4dc7-45ea-930e-74bb62c043e5" />
 							<attribute id="Name" type="LSString" value="Billboard" />
@@ -9850,7 +9851,8 @@
 									</children>
 								</node>
 							</children>
-						</node>
+						</node> -->
+
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.05535" />
 							<attribute id="ID" type="guid" value="42a78b2f-7577-40b6-a67e-48334dab0187" />
@@ -14515,7 +14517,7 @@
 								</node>
 							</children>
 						</node>
-						<node id="EffectComponent">
+						<!-- <node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.114797" />
 							<attribute id="ID" type="guid" value="45b18cad-571e-4b16-945c-98b64290116b" />
 							<attribute id="Name" type="LSString" value="Model" />
@@ -15144,7 +15146,7 @@
 									</children>
 								</node>
 							</children>
-						</node>
+						</node> -->
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.5092645" />
 							<attribute id="ID" type="guid" value="84fafd3b-ddc0-418d-8fd0-3bd40cea8dbf" />

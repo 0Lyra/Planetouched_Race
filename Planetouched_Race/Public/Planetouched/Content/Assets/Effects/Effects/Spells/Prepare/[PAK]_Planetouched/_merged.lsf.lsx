@@ -994,6 +994,7 @@
 						</node>
 					</children>
 				</node>
+                <!-- radiant touch -->
                 <node id="Resource">
 					<attribute id="BoundsMax" type="fvec3" value="1 1 1" />
 					<attribute id="BoundsMin" type="fvec3" value="-1 -1 -1" />
@@ -1082,6 +1083,30 @@
 								</node>
 								<node id="DependentResource">
 									<attribute id="Object" type="FixedString" value="19c24792-a865-5490-9e83-c7e90e3d04fb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 6 5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -4 -5" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.51" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Prepare_CastFX_Comet" />
+					<attribute id="ID" type="FixedString" value="ab674851-f466-43d5-a532-d8876d94e349" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Prepare_CastFX_Comet" />
+					<attribute id="Radius" type="float" value="5" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Prepare/RadiantTouch/P_VFX_Spells_Prepare_CastFX_Comet.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="44192e18-75cf-4d16-1747-81ed534b8247" />
 								</node>
 							</children>
 						</node>
