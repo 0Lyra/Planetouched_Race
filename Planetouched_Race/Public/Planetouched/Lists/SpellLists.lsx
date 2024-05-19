@@ -26,7 +26,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Custom Race Spell list Racial Single Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Target_PlanarStep"/>
+                    <attribute id="Spells" type="LSString" value="Target_PlanarStep;Target_InflictWoundsTest"/>
                     <attribute id="UUID" type="guid" value="869890ec-7dad-40f6-b965-65845fd55327"/>
                 </node>
                 <node id="SpellList">
