@@ -1112,6 +1112,150 @@
 						</node>
 					</children>
 				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="30" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_RadiantTouch_R_HandFX_01" />
+					<attribute id="ID" type="FixedString" value="9614064f-d166-4bb7-92bb-3a3aa266cc3f" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_RadiantTouch_R_HandFX_01" />
+					<attribute id="Radius" type="float" value="5.196152" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_RadiantTouch_R_HandFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758062" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9c15f129-f070-7a2b-e66d-d728aaea2383" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="88ab1c5e-5bcd-e4a5-7249-9c6a439a18d6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f51d4ea9-e053-382a-31b6-7d2458e4aab3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="ee299615-7ce5-c8f5-d97c-08ccd88d0e8b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2.5 2.5 2.5" />
+					<attribute id="BoundsMin" type="fvec3" value="-2.5 -2.5 -2.5" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="30" />
+					<attribute id="Duration" type="float" value="1.5" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_RadiantTouch_R_HandFX_Textkey_01" />
+					<attribute id="ID" type="FixedString" value="9ec627f6-e283-40b9-aba6-bc955c70dbc1" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_RadiantTouch_R_HandFX_Textkey_01" />
+					<attribute id="Radius" type="float" value="4.3301272" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_RadiantTouch_R_HandFX_Textkey_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="68791d64-cecb-5475-0e53-564e65286aa7" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1f73b5e1-266d-5ca0-9aec-8c13881b8c2b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9c15f129-f070-7a2b-e66d-d728aaea2383" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="fb21ca3c-3b37-b5b8-86cd-c7feaead109d" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="4 4 4" />
+					<attribute id="BoundsMin" type="fvec3" value="-4 -4 -4" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="30" />
+					<attribute id="Duration" type="float" value="10" />
+					<attribute id="EffectName" type="FixedString" value="P_VFX_Spells_Cast_RadiantTouch_Impact_BodyFX_Textkey_02" />
+					<attribute id="ID" type="FixedString" value="1da967e9-d75d-4f6b-99f6-5178553ff3e5" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="P_VFX_Spells_Cast_RadiantTouch_Impact_BodyFX_Textkey_02" />
+					<attribute id="Radius" type="float" value="4" />
+					<attribute id="SourceFile" type="LSString" value="Public/Planetouched/Assets/Effects/Effect_banks/Spells/Cast/P_VFX_Spells_Cast_RadiantTouch_Impact_BodyFX_Textkey_02.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3b2ede4a-1d29-4147-a890-371e40378656" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="88ab1c5e-5bcd-e4a5-7249-9c6a439a18d6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="30e17083-9341-c17f-1993-4301d74f2152" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5f50a2ac-ddfa-daef-eac4-e34c386cb4a6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1f73b5e1-266d-5ca0-9aec-8c13881b8c2b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b4c92036-3733-5b15-f86d-1a02855d0144" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0c1fd217-45a3-f90b-f97a-0c2863541b6f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f6db11f4-c563-6173-245b-23e6910c5b83" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="88a7846f-eb51-f13a-bfff-edd1cbffba61" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f812d39c-7d2b-e112-931a-9265f910dbc0" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5ab4200c-0c40-8779-258f-45829397e9cd" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6809c7c7-f5a0-8ce0-ffb1-15dac6918c6f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="402b6075-2365-4009-b655-005121f722af" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
             </children>
 		</node>
 	</region>

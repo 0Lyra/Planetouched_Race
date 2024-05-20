@@ -199,6 +199,6 @@ data "SpellAnimation" "3ff87abf-1ea1-4c32-aadf-c822d74c7dc0,,;,,;477bdade-9c91-4
 data "VerbalIntent" "Damage"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsMelee;IsSpell"
 data "PrepareEffect" "f51dd9e2-1f3a-4946-ba27-aac4e5145952"
-data "CastEffect" "7bce304f-a409-495e-a092-012b727b0914"
-data "TargetEffect" "1d00a392-5444-4533-b125-d4cafc7e496a"
+data "CastEffect" "eacedd57-3cb5-4964-af12-ea3399e9385f"
+data "TargetEffect" "56921c52-22fc-4ac0-abf5-145c7253288e"
 data "DamageType" "Necrotic"
